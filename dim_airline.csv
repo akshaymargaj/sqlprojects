@@ -1,0 +1,329 @@
+IATA,ICAO,Airline Name,Country,Headquarters,Website URL,Airplane Capacity,Airplane Weight,Type,Status
+4J,UTJ,United Tajik Airline,Tajikistan,Dushanbe,,150,79,International,Active
+AAB,,Aero-Auto-Bus,Germany,Berlin,,,,Domestic,Inactive
+AAL,AAL,American Airlines,United States, Texas,https://www.aa.com/,189,87.1,International,Active
+AAR,AAR,Asiana Airlines,South Korea,Seoul,https://www.flyasiana.com/,290,353.8,International,Active
+ABJ,,Abidjan Air,Côte d'Ivoire,Abidjan,,,,International,Inactive
+ABN,ABN,Airborne Express,United States, Ohio,,,,Domestic,Inactive
+ABQ,,Albuquerque Air,United States,Albuquerque,,,,Domestic,Inactive
+ABR,,Aberdeen Air,United States,Aberdeen,,,,Domestic,Inactive
+ACA,ACA,Air Canada,Canada,Montreal,https://www.aircanada.com/,180,79,International,Active
+ADH,,Aldan Air,Russia,Aldan,,,,Domestic,Inactive
+AEA,AEA,Air Europa,Spain,Palma de Mallorca,https://www.aireuropa.com/,180,79,International,Active
+AEE,AEE,Aegean Airlines,Greece,Athens,https://www.aegeanair.com/,180,79,International,Active
+AEH,,Aero4M,Slovenia,Ljubljana,,50,15,International,Active
+AFL,AFL,Aeroflot,Russia,Moscow,https://www.aeroflot.ru/,180,79,International,Active
+AFR,AFR,Air France,France,Paris,https://www.airfrance.com/,250,317.5,International,Active
+AHO,,Alghero Air,Italy,Alghero,,,,Domestic,Inactive
+AIA,,Air India Express,India,Kochi,https://www.airindiaexpress.com/,180,79,International,Active
+AIC,AIC,Air India,India,Delhi,https://www.airindia.in/,250,317.5,International,Active
+AIZ,,Arkia,Israel,Tel Aviv,https://www.arkia.co.il/,122,73.5,International,Active
+ALC,ALC,Alaska Central Express,United States,Anchorage,https://www.aceaircargo.com/,9,5.7,Domestic,Active
+ALK,ALK,SriLankan Airlines,Sri Lanka,Colombo,https://www.srilankan.com/,250,317.5,International,Active
+AMB,,Ambulance Air,Australia,Sydney,,,,Domestic,Inactive
+AMC,AMC,Air Malta,Malta,Luqa,https://www.airmalta.com/,180,79,International,Active
+AMT,,American Trans Air,United States,Indianapolis,,,,International,Inactive
+AMX,AMX,Aeromexico,Mexico,Mexico City,https://www.aeromexico.com/,180,79,International,Active
+ANA,ANA,All Nippon Airways,Japan,Tokyo,https://www.ana.co.jp/,250,317.5,International,Active
+ANE,ANE,Air Nostrum,Spain,Valencia,https://www.airnostrum.es/,100,34,International,Active
+AOC,,Aero Continente,Peru,Lima,,,,International,Inactive
+APK,,Air Pack Express,Spain,Madrid,,,,Domestic,Inactive
+ARG,ARG,Aerolineas Argentinas,Argentina,Buenos Aires,https://www.aerolineas.com.ar/,180,79,International,Active
+ARN,,Aeronova,Spain,Valencia,,50,15,Domestic,Active
+ART,ART,Smartlynx Airlines,Latvia,Riga,https://www.smartlynx.aero/,180,79,International,Active
+ASI,,Astral Aviation,Kenya,Nairobi,https://www.astral-aviation.com/,,110,International,Active
+ASL,ASL,Air Serbia,Serbia,Belgrade,https://www.airserbia.com/,180,79,International,Active
+ATV,,Avanti Air,Germany,Siegburg,https://www.avantiair.com/,100,34,International,Active
+AUA,AUA,Austrian Airlines,Austria,Vienna,https://www.austrian.com/,250,317.5,International,Active
+AUI,AUI,Ukraine International Airlines,Ukraine,Kyiv,https://www.flyuia.com/,180,79,International,Active
+AUR,AUR,Aurigny Air Services,Guernsey,Alderney,https://www.aurigny.com/,50,15,International,Active
+AVA,AVA,Avianca,Colombia,Bogotá,https://www.avianca.com/,180,79,International,Active
+AWC,,Air Wisconsin,United States,Wisconsin,https://www.airwis.com/,50,22.7,Domestic,Active
+AWT,,Alliance Air,India,Delhi,https://www.allianceair.in/,70,21,Domestic,Active
+AXE,,Africa Express Airways,Kenya,Nairobi,,50,15,International,Active
+AXM,AXM,AirAsia X,Malaysia,Kuala Lumpur,https://www.airasia.com/,377,317.5,International,Active
+AXX,,Air X Charter,Malta,Luqa,https://www.airx.aero/,50,15,International,Active
+AZ,AZA,ITA Airways,Italy,Rome,https://www.ita-airways.com/,180,79,International,Active
+AZI,,Astra Airlines,Greece,Thessaloniki,,,,International,Inactive
+BAV,BAV,Bamboo Airways,Vietnam,Hanoi,https://www.bambooairways.com/,250,317.5,International,Active
+BAW,BAW,British Airways,United Kingdom,London,https://www.britishairways.com/,250,317.5,International,Active
+BBC,BBC,Biman Bangladesh Airlines,Bangladesh,Dhaka,https://www.biman-air.com/,250,317.5,International,Active
+BCI,BCI,Blue Islands,Jersey,Saint Peter,https://www.blueislands.com/,50,15,International,Active
+BDR,,Badr Airlines,Sudan,Khartoum,https://www.badr-airlines.com/,180,79,International,Active
+BEE,BEE,Flybe,United Kingdom,Exeter,,,,International,Inactive
+BEL,BEL,Brussels Airlines,Belgium,Brussels,https://www.brusselsairlines.com/,180,79,International,Active
+BGA,,Braathens Regional Airlines,Sweden,Stockholm,https://www.flygbra.se/,50,15,Domestic,Active
+BGH,BGH,BH Air,Bulgaria,Sofia,https://www.bhairlines.com/,180,79,International,Active
+BHL,,Bristow Helicopters,United Kingdom,Aberdeen,https://www.bristowgroup.com/,,10,Domestic,Active
+BIX,BIX,Braathens International Airways,Sweden,Stockholm,https://www.flygbra.se/,180,79,International,Active
+BLX,BLX,TUI fly Nordic,Sweden,Stockholm,https://www.tuiflynordic.se/,180,79,International,Active
+BMS,BMS,Blue Air,Romania,Bucharest,,,,International,Inactive
+BRO,,Blue Panorama Airlines,Italy,Rome,,,,International,Inactive
+BTI,BTI,Air Baltic,Latvia,Riga,https://www.airbaltic.com/,180,79,International,Active
+BVR,,Brighton City Airways,United Kingdom,Shoreham,,,,Domestic,Inactive
+CAI,CAI,Corendon Airlines,Turkey,Antalya,https://www.corendonairlines.com/,180,79,International,Active
+CAL,CAL,China Airlines,Taiwan,Taipei,https://www.china-airlines.com/,250,317.5,International,Active
+CAT,CAT,Copenhagen AirTaxi,Denmark,Copenhagen,https://www.aircat.dk/,9,5.7,Domestic,Active
+CBJ,CBJ,Beijing Capital Airlines,China,Beijing,https://www.jdair.net/,180,79,International,Active
+CCA,CCA,Air China,China,Beijing,https://www.airchina.com/,250,317.5,International,Active
+CCM,CCM,Air Corsica,France,Ajaccio,https://www.aircorsica.com/,100,34,International,Active
+CES,CES,China Eastern Airlines,China,Shanghai,https://www.ceair.com/,250,317.5,International,Active
+CFE,CFE,BA CityFlyer,United Kingdom,London,https://www.britishairways.com/,100,34,International,Active
+CFG,CFG,Condor,Germany,Frankfurt,https://www.condor.com/,250,317.5,International,Active
+CGL,,Citywing,United Kingdom,Isle of Man,,,,Domestic,Inactive
+CHH,CHH,Hainan Airlines,China,Haikou,https://www.hainanairlines.com/,250,317.5,International,Active
+CJT,CJT,Cargojet,Canada,Mississauga,https://www.cargojet.com/,,110,International,Active
+CKK,CKK,China Cargo Airlines,China,Shanghai,https://www.ckair.com/,,317.5,International,Active
+CLG,,Challenge Aero,Ukraine,Kyiv,,,,International,Inactive
+CLH,CLH,Lufthansa CityLine,Germany,Munich,https://www.lufthansacityline.com/,100,34,International,Active
+CLX,CLX,Cargolux,Luxembourg,Findel,https://www.cargolux.com/,,317.5,International,Active
+CND,CND,Corendon Dutch Airlines,Netherlands,Amsterdam,https://www.corendon.com/,180,79,International,Active
+CPA,CPA,Cathay Pacific,Hong Kong,Hong Kong,https://www.cathaypacific.com/,250,317.5,International,Active
+CRL,CRL,Air Corsica,France,Ajaccio,https://www.aircorsica.com/,100,34,International,Active
+CRN,CRN,Carson Air,Canada,Kelowna,https://www.carsonair.com/,9,5.7,Domestic,Active
+CSA,CSA,Czech Airlines,Czech Republic,Prague,https://www.csa.cz/,180,79,International,Active
+CSN,CSN,China Southern Airlines,China,Guangzhou,https://www.csair.com/,250,317.5,International,Active
+CSZ,CSZ,Shenzhen Airlines,China,Shenzhen,https://www.shenzhenair.com/,180,79,International,Active
+CTN,CTN,Croatia Airlines,Croatia,Zagreb,https://www.croatiaairlines.com/,180,79,International,Active
+CXI,,City Airline,Sweden,Gothenburg,,,,Domestic,Inactive
+CYP,CYP,Cyprus Airways,Cyprus,Larnaca,https://www.cyprusairways.com/,180,79,International,Active
+DAH,DAH,Air Algérie,Algeria,Algiers,https://www.airalgerie.dz/,180,79,International,Active
+DAL,DAL,Delta Air Lines,United States,"Atlanta,  Georgia",https://www.delta.com/,250,317.5,International,Active
+DB,,Discovery Airways,United States,"Honolulu,  Hawaii",,,,Domestic,Inactive
+DBT,,Danish Air Transport,Denmark,Vamdrup,https://www.dat.dk/,100,34,International,Active
+DCS,,DC Aviation,Germany,Stuttgart,https://www.dc-aviation.com/,50,15,International,Active
+DHK,DHK,DHL Air UK,United Kingdom,London,https://www.dhl.com/,,317.5,International,Active
+DJM,,Djibouti Air,Djibouti,Djibouti,,,,International,Inactive
+DJT,,Jet Time,Denmark,Copenhagen,,,,International,Inactive
+DKH,,Juneyao Airlines,China,Shanghai,https://www.juneyaoair.com/,180,79,International,Active
+DLA,,Dolphin Air,United Arab Emirates,Dubai,,,,International,Inactive
+DLH,DLH,Lufthansa,Germany,Frankfurt,https://www.lufthansa.com/,250,317.5,International,Active
+DN,DNA,Danair S.R.L.,Romania,Bucharest,,50,15,Domestic,Active
+DTR,DTR,Danish Air Transport,Denmark,Vamdrup,https://www.dat.dk/,100,34,International,Active
+EA,EGL,Eagle Air,United States,Anchorage,,9,5.7,Domestic,Active
+EAF,,East African Safari Air,Kenya,Nairobi,,,,International,Inactive
+EAG,,Eagle Air,Uganda,Kampala,,9,5.7,International,Active
+EAL,EAL,Eastern Airlines,United States,Kansas City,https://www.goeasternair.com/,180,79,International,Active
+ECC,ECC,Eclair Aviation,Czech Republic,Prague,,50,15,International,Active
+EDG,,Edge Aviation,United Kingdom,London,,,,Domestic,Inactive
+EDW,EDW,Edelweiss Air,Switzerland,Zürich,https://www.edelweissair.ch/,250,317.5,International,Active
+EFS,EUW,EFS European Flight Service,Sweden,Gothenburg,,50,15,International,Active
+EG,,Eagle Air,Iceland,Reykjavik,,9,5.7,Domestic,Inactive
+EIN,EIN,Aer Lingus,Ireland,Dublin,https://www.aerlingus.com/,180,79,International,Active
+EJC,,European Jets,Spain,Madrid,,50,15,International,Active
+EJM,,Executive Jet Management,United States,Cincinnati,https://www.ejmjets.com/,50,15,International,Active
+EJU,EJU,easyJet Europe,Austria,Vienna,https://www.easyjet.com/,180,79,International,Active
+ELY,ELY,El Al,Israel,Tel Aviv,https://www.elal.com/,250,317.5,International,Active
+ENT,ENT,Enter Air,Poland,Warsaw,https://www.enterair.pl/,180,79,International,Active
+ENZ,ENZ,Enz Air,New Zealand,Christchurch,,9,5.7,Domestic,Active
+ETD,ETD,Etihad Airways,United Arab Emirates,Abu Dhabi,https://www.etihad.com/,250,317.5,International,Active
+ETH,ETH,Ethiopian Airlines,Ethiopia,Addis Ababa,https://www.ethiopianairlines.com/,250,317.5,International,Active
+EUA,,EuroAtlantic Airways,Portugal,Lisbon,https://www.euroatlantic.pt/,250,317.5,International,Active
+EVA,EVA,EVA Air,Taiwan,Taipei,https://www.evaair.com/,250,317.5,International,Active
+EWG,EWG,Eurowings,Germany,Düsseldorf,https://www.eurowings.com/,180,79,International,Active
+EXS,EXS,Jet2.com,United Kingdom,Leeds,https://www.jet2.com/,180,79,International,Active
+EZE,EZE,Eastern Airways,United Kingdom,Humberside,https://www.easternairways.com/,50,22.7,International,Active
+EZS,EZS,easyJet Switzerland,Switzerland,Geneva,https://www.easyjet.com/,180,79,International,Active
+EZY,EZY,easyJet UK,United Kingdom,London,https://www.easyjet.com/,180,79,International,Active
+FAI,FAI,Fairchild Air,United States,Seattle,,,,Domestic,Inactive
+FDX,FDX,FedEx Express,United States,Memphis,https://www.fedex.com/,,317.5,International,Active
+FHY,FHY,Freebird Airlines,Turkey,Istanbul,https://www.freebirdairlines.com/,180,79,International,Active
+FIA,FIA,FLYONE,Moldova,Chișinău,https://www.flyone.eu/,180,79,International,Active
+FIN,FIN,Finnair,Finland,Helsinki,https://www.finnair.com/,180,79,International,Active
+FJE,,Flexjet,United States,Cleveland,https://www.flexjet.com/,50,15,International,Active
+FJO,,Fjord Helicopter,Norway,Bergen,,,10,Domestic,Active
+FLG,FLG,Pinnacle Airlines,United States,Memphis,,,,Domestic,Inactive
+FLI,FLI,Flyr,Norway,Oslo,,,,International,Inactive
+FOX,,Fox Air,United States,Miami,,,,Domestic,Inactive
+FPO,FPO,Fun Air,Portugal,Lisbon,,50,15,International,Active
+FPY,,Fly Play,Iceland,Keflavík,https://www.flyplay.com/,180,79,International,Active
+FRF,,Frefly Air,United Kingdom,London,,,,Domestic,Inactive
+FRO,FRO,Frosta Air,Norway,Trondheim,,9,5.7,Domestic,Active
+FTL,FTL,Flightline,Spain,Barcelona,https://www.flightline.es/,50,15,International,Active
+FWI,FWI,Air Caraibes,France,Guadeloupe,https://www.aircaraibes.com/,250,317.5,International,Active
+FYA,,Flyadeal,Saudi Arabia,Jeddah,https://www.flyadeal.com/,180,79,International,Active
+GCK,,Glacier Air,Canada,Vancouver,,9,5.7,Domestic,Active
+GCR,GCR,Tianjin Airlines,China,Tianjin,https://www.tianjin-airlines.com/,180,79,International,Active
+GES,,Gestair,Spain,Madrid,https://www.gestair.com/,50,15,International,Active
+GFA,GFA,Gulf Air,Bahrain,Manama,https://www.gulfair.com/,250,317.5,International,Active
+GJT,,Grant Aviation,United States,Anchorage,https://www.flygrant.com/,9,5.7,Domestic,Active
+GMA,,Gama Aviation,United Kingdom,Farnborough,https://www.gamaaviation.com/,50,15,International,Active
+GMR,,Gambia International Airlines,Gambia,Banjul,,,,International,Inactive
+GTI,GTI,Atlas Air,United States,Purchase,https://www.atlasair.com/,,317.5,International,Active
+GUV,,GullivAir,Bulgaria,Sofia,https://www.gullivair.com/,250,317.5,International,Active
+HAT,HAT,Hellenic Air,Turkey,Istanbul,,50,15,International,Active
+HER,HER,Heston Airlines,Lithuania,Vilnius,https://www.heston.aero/,180,79,International,Active
+HFM,,Hi Fly Malta,Malta,Luqa,https://www.hifly.aero/,250,317.5,International,Active
+HFY,,Hi Fly,Portugal,Lisbon,https://www.hifly.aero/,250,317.5,International,Active
+HMJ,,Harmony Jets,Malta,Luqa,https://www.harmonyjets.com/,50,15,International,Active
+HRT,,Chartright Air,Canada,Toronto,https://www.chartright.com/,50,15,International,Active
+HVN,HVN,Vietnam Airlines,Vietnam,Hanoi,https://www.vietnamairlines.com/,250,317.5,International,Active
+HYS,,Hyperion Aviation,Malta,Luqa,https://www.hyperion-aviation.com/,50,15,International,Active
+IAW,IAW,Iraqi Airways,Iraq,Baghdad,https://www.iraqiairways.iq/,180,79,International,Active
+IBE,IBE,Iberia,Spain,Madrid,https://www.iberia.com/,250,317.5,International,Active
+IBK,IBK,Norwegian Air International,Norway,Oslo,https://www.norwegian.com/,180,79,International,Active
+IBS,IBS,Iberia Express,Spain,Madrid,https://www.iberiaexpress.com/,180,79,International,Active
+ICE,ICE,Icelandair,Iceland,Keflavík,https://www.icelandair.com/,180,79,International,Active
+IMX,IMX,Imperial Air,United Kingdom,London,,,,Domestic,Inactive
+IOS,,Skybus Airlines,United States,Columbus,,,,Domestic,Inactive
+IRA,IRA,Iran Air,Iran,Tehran,https://www.iranair.com/,250,317.5,International,Active
+ISK,ISK,Intersky,Austria,Friedrichshafen,,,,International,Inactive
+ISR,ISR,Israir Airlines,Israel,Tel Aviv,https://www.israirairlines.com/,180,79,International,Active
+J2,JAV,Azerbaijan Airlines,Azerbaijan,Baku,https://www.azal.az/,180,79,International,Active
+JAL,JAL,Japan Airlines,Japan,Tokyo,https://www.jal.com/,250,317.5,International,Active
+JAV,JAV,Azerbaijan Airlines,Azerbaijan,Baku,https://www.azal.az/,180,79,International,Active
+JBJ,,JetBlue Japan,Japan,Tokyo,,,,International,Inactive
+JBU,JBU,JetBlue Airways,United States,New York City,https://www.jetblue.com/,180,79,International,Active
+JNL,JNL,JetNetherlands,Netherlands,Amsterdam,,50,15,International,Active
+JTC,,Jet Charter,United States,Miami,,50,15,International,Active
+JTD,,Jettime,Denmark,Copenhagen,https://www.jettime.dk/,180,79,International,Active
+JZR,JZR,Jazeera Airways,Kuwait,Kuwait City,https://www.jazeeraairways.com/,180,79,International,Active
+KAC,KAC,Kuwait Airways,Kuwait,Kuwait City,https://www.kuwaitairways.com/,250,317.5,International,Active
+KAL,KAL,Korean Air,South Korea,Seoul,https://www.koreanair.com/,250,317.5,International,Active
+KIS,,Air Kiss,United States,Los Angeles,,,,Domestic,Inactive
+KLC,KLC,KLM Cityhopper,Netherlands,Amsterdam,https://www.klm.com/,100,34,International,Active
+KLJ,,KLM UK,United Kingdom,London,,,,International,Inactive
+KLM,KLM,KLM,Netherlands,Amsterdam,https://www.klm.com/,250,317.5,International,Active
+KQA,KQA,Kenya Airways,Kenya,Nairobi,https://www.kenya-airways.com/,180,79,International,Active
+KRP,,Carpatair,Switzerland,Geneva,,,,International,Inactive
+KZR,KZR,Air Astana,Kazakhstan,Almaty,https://www.airastana.com/,180,79,International,Active
+LAN,LAN,LATAM Chile,Chile,Santiago,https://www.latam.com/,250,317.5,International,Active
+LAV,LAV,Albastar,Spain,Palma de Mallorca,https://www.albastar.es/,180,79,International,Active
+LBT,,Nouvelair,Tunisia,Monastir,https://www.nouvelair.com/,180,79,International,Active
+LGL,LGL,Luxair,Luxembourg,Findel,https://www.luxair.lu/,180,79,International,Active
+LIA,LIA,LIAT,Antigua and Barbuda,St. John’s,,,,International,Inactive
+LNX,,Lynx Air,Canada,Calgary,,,,International,Inactive
+LOG,LOG,Loganair,United Kingdom,Glasgow,https://www.loganair.co.uk/,50,22.7,International,Active
+LOT,LOT,LOT Polish Airlines,Poland,Warsaw,https://www.lot.com/,180,79,International,Active
+LVA,,Air Liban,Lebanon,Beirut,,,,International,Inactive
+LWG,,Luxwing,Malta,Luqa,https://www.luxwing.com/,50,15,International,Active
+LXA,,Luxaviation,Luxembourg,Findel,https://www.luxaviation.com/,50,15,International,Active
+LZB,LZB,Bulgaria Air,Bulgaria,Sofia,https://www.air.bg/,180,79,International,Active
+MAC,MAC,Air Arabia Maroc,Morocco,Casablanca,https://www.airarabia.com/,180,79,International,Active
+MAS,MAS,Malaysia Airlines,Malaysia,Kuala Lumpur,https://www.malaysiaairlines.com/,250,317.5,International,Active
+MAU,MAU,Air Mauritius,Mauritius,Port Louis,https://www.airmauritius.com/,250,317.5,International,Active
+MEA,MEA,Middle East Airlines,Lebanon,Beirut,https://www.mea.com.lb/,180,79,International,Active
+MEV,,Meravo Helicopters,Germany,Oberpfaffenhofen,,,10,Domestic,Active
+MHV,,MHS Aviation,Germany,Oberpfaffenhofen,https://www.mhs-aviation.de/,50,15,International,Active
+MLD,MLD,Air Moldova,Moldova,Chișinău,,,,International,Inactive
+MLM,,Malmo Aviation,Sweden,Malmö,,,,International,Inactive
+MMD,MMD,Mandarin Airlines,Taiwan,Taipei,https://www.mandarin-airlines.com/,180,79,International,Active
+MMZ,MMZ,EuroAtlantic Airways,Portugal,Lisbon,https://www.euroatlantic.pt/,250,317.5,International,Active
+MSC,MSC,Muscat Air,Oman,Muscat,,50,15,International,Active
+MSR,MSR,EgyptAir,Egypt,Cairo,https://www.egyptair.com/,250,317.5,International,Active
+MTM,,Martinair,Netherlands,Amsterdam,,,,International,Inactive
+MTO,,Metrojet,Hong Kong,Hong Kong,,50,15,International,Active
+MYW,MYW,MyWay Airlines,Georgia,Tbilisi,https://www.mywayairlines.com/,180,79,International,Active
+MYX,MYX,Myanmar Airways International,Myanmar,Yangon,https://www.maiair.com/,180,79,International,Active
+NAX,NAX,Norwegian Air Shuttle,Norway,Oslo,https://www.norwegian.com/,180,79,International,Active
+NBT,NBT,Northwest Airlines,United States,Minneapolis,,,,International,Inactive
+NCR,NCR,National Cargo,United States,Orlando,,,317.5,International,Active
+NJE,NJE,NetJets Europe,Portugal,Lisbon,https://www.netjets.com/,50,15,International,Active
+NOS,NOS,Neos,Italy,Milan,https://www.neosair.it/,250,317.5,International,Active
+NPT,NPT,Neptune Air,Malaysia,Kuala Lumpur,,,,International,Inactive
+NSZ,,Nesma Airlines,Egypt,Cairo,https://www.nesmaairlines.com/,180,79,International,Active
+NVR,NVR,Novair,Sweden,Stockholm,https://www.novair.se/,180,79,International,Active
+NYX,,NyxAir,Estonia,Tallinn,https://www.nyxair.eu/,50,15,International,Active
+OAE,OAE,Omni Air International,United States,Tulsa,https://www.oai.aero/,250,317.5,International,Active
+OAW,OAW,Helvetic Airways,Switzerland,Zürich,https://www.helvetic.com/,180,79,International,Active
+OBS,,Orbest,Spain,Palma de Mallorca,,,,International,Inactive
+OMA,OMA,Oman Air,Oman,Muscat,https://www.omanair.com/,250,317.5,International,Active
+OVA,,Overland Airways,Nigeria,Lagos,https://www.overlandairways.com/,50,22.7,International,Active
+PAL,PAL,Philippine Airlines,Philippines,Manila,https://www.philippineairlines.com/,250,317.5,International,Active
+PDY,,Paradise Airways,United States,Miami,,,,Domestic,Inactive
+PEA,PEA,Pan Europeenne Air Service,France,Chambéry,https://www.paneuropeenne.com/,50,15,International,Active
+PGT,PGT,Pegasus Airlines,Turkey,Istanbul,https://www.flypgs.com/,180,79,International,Active
+PJA,,Privatair Jet Alliance,Switzerland,Geneva,,50,15,International,Active
+PLM,,Palmair,United Kingdom,Bournemouth,,,,International,Inactive
+PNA,PNA,Pan American World Airways,United States,Portsmouth,,,,International,Inactive
+PUE,,Puerto Rico Air,United States,San Juan,,,,International,Inactive
+PVG,,Privilege Style,Spain,Palma de Mallorca,https://www.privilegestyle.com/,250,317.5,International,Active
+QAS,,Qeshm Air,Iran,Qeshm,https://www.qeshm-air.com/,180,79,International,Active
+QFA,QFA,Qantas,Australia,Sydney,https://www.qantas.com/,250,317.5,International,Active
+QQE,,Qatar Executive,Qatar,Doha,https://www.qatarexec.com.qa/,50,15,International,Active
+QTR,QTR,Qatar Airways,Qatar,Doha,https://www.qatarairways.com/,250,317.5,International,Active
+QY,TAY,TNT Airways,Belgium,Liège,,,317.5,International,Active
+R6,,Yakutia Airlines,Russia,Yakutsk,https://www.yakutia.aero/,180,79,International,Active
+RAM,RAM,Royal Air Maroc,Morocco,Casablanca,https://www.royalairmaroc.com/,180,79,International,Active
+RBA,RBA,Royal Brunei Airlines,Brunei,Bandar Seri Begawan,https://www.flyroyalbrunei.com/,250,317.5,International,Active
+RJA,RJA,Royal Jordanian,Jordan,Amman,https://www.rj.com/,180,79,International,Active
+ROT,ROT,Tarom,Romania,Bucharest,https://www.tarom.ro/,180,79,International,Active
+RUK,RUK,Ryanair UK,United Kingdom,London,https://www.ryanair.com/,180,79,International,Active
+RWD,RWD,RwandAir,Rwanda,Kigali,https://www.rwandair.com/,180,79,International,Active
+RYR,RYR,Ryanair,Ireland,Dublin,https://www.ryanair.com/,180,79,International,Active
+RYS,RYS,Buzz,Poland,Warsaw,https://www.buzzairlines.com/,180,79,International,Active
+SAI,,Shaheen Air,Pakistan,Karachi,,,,International,Inactive
+SAS,SAS,Scandinavian Airlines,Sweden,Stockholm,https://www.flysas.com/,180,79,International,Active
+SAT,SAT,SATA Air Açores,Portugal,Ponta Delgada,https://www.sata.pt/,50,22.7,International,Active
+SAX,SAX,Sun Air of Scandinavia,Denmark,Billund,https://www.sunair.dk/,50,15,International,Active
+SAZ,,Swiss Air Ambulance,Switzerland,Zürich,https://www.swiss-air-ambulance.ch/,50,15,International,Active
+SCW,SCW,SkyCity Airlines,United Arab Emirates,Dubai,,,,International,Inactive
+SDR,SDR,Sundair,Germany,Stralsund,https://www.sundair.com/,180,79,International,Active
+SEH,SEH,Sky Express,Greece,Athens,https://www.skyexpress.gr/,50,22.7,International,Active
+SIA,SIA,Singapore Airlines,Singapore,Singapore,https://www.singaporeair.com/,250,317.5,International,Active
+SIO,,Sirio,Italy,Milan,,,,International,Inactive
+SLM,SLM,Surinam Airways,Suriname,Paramaribo,https://www.flyslm.com/,180,79,International,Active
+SPF,,Space Air,United States,Seattle,,,,Domestic,Inactive
+SQP,,Skytrans Airlines,Australia,Cairns,https://www.skytrans.com.au/,50,22.7,Domestic,Active
+SRR,SRR,Star Air,Denmark,Copenhagen,,,317.5,International,Active
+STK,STK,Starlink Aviation,Canada,Montreal,https://www.starlinkaviation.com/,50,15,International,Active
+SUS,SUS,Sun Air of Scandinavia,Denmark,Billund,https://www.sunair.dk/,50,15,International,Active
+SVA,SVA,Saudia,Saudi Arabia,Jeddah,https://www.saudia.com/,250,317.5,International,Active
+SWG,SWG,Sunwing Airlines,Canada,Toronto,https://www.sunwing.ca/,180,79,International,Active
+SWN,SWN,West Air Sweden,Sweden,Gothenburg,,,317.5,International,Active
+SWP,,Swift Air,United States,Phoenix,https://www.flyswiftair.com/,180,79,International,Active
+SWR,SWR,Swiss International Air Lines,Switzerland,Zürich,https://www.swiss.com/,250,317.5,International,Active
+SWT,SWT,Swiftair,Spain,Madrid,https://www.swiftair.com/,,317.5,International,Active
+SXD,SXD,SunExpress Deutschland,Germany,Frankfurt,,,,International,Inactive
+SXS,SXS,SunExpress,Turkey,Antalya,https://www.sunexpress.com/,180,79,International,Active
+SYD,,Sydney Airlines,Australia,Sydney,,,,Domestic,Inactive
+SZS,SZS,Scat Air,Kazakhstan,Shymkent,https://www.scat.kz/,180,79,International,Active
+TAA,TAA,Trans Australia Airlines,Australia,Melbourne,,,,International,Inactive
+TAM,TAM,LATAM Brasil,Brazil,São Paulo,https://www.latam.com/,250,317.5,International,Active
+TAP,TAP,TAP Air Portugal,Portugal,Lisbon,https://www.flytap.com/,250,317.5,International,Active
+TAR,TAR,Tunisair,Tunisia,Tunis,https://www.tunisair.com/,180,79,International,Active
+TAY,TAY,TNT Airways,Belgium,Liège,,,317.5,International,Active
+TCV,TCV,Cabo Verde Airlines,Cape Verde,Praia,https://www.caboverdeairlines.com/,180,79,International,Active
+TDR,TDR,Trade Air,Croatia,Zagreb,https://www.trade-air.com/,50,22.7,International,Active
+TFL,TFL,TUI fly Netherlands,Netherlands,Amsterdam,https://www.tui.nl/,180,79,International,Active
+TGW,TGW,Scoot,Singapore,Singapore,https://www.flyscoot.com/,250,317.5,International,Active
+THA,THA,Thai Airways International,Thailand,Bangkok,https://www.thaiairways.com/,250,317.5,International,Active
+THY,THY,Turkish Airlines,Turkey,Istanbul,https://www.turkishairlines.com/,250,317.5,International,Active
+TIE,TIE,Titan Airways,United Kingdom,London,https://www.titan-airways.com/,180,79,International,Active
+TLR,TLR,Air Libya,Libya,Tripoli,,,,International,Inactive
+TOM,TOM,TUI Airways,United Kingdom,London,https://www.tui.co.uk/,180,79,International,Active
+TOW,TOW,Tower Air,United States,New York City,,,,International,Inactive
+TRA,TRA,Transavia,Netherlands,Amsterdam,https://www.transavia.com/,180,79,International,Active
+TSC,TSC,Air Transat,Canada,Montreal,https://www.airtransat.com/,250,317.5,International,Active
+TUA,TUA,TUIfly Nordic,Sweden,Stockholm,https://www.tui.se/,180,79,International,Active
+TUI,TUI,TUI fly Deutschland,Germany,Hanover,https://www.tui.de/,180,79,International,Active
+TVF,TVF,Transavia France,France,Paris,https://www.transavia.com/,180,79,International,Active
+TVS,TVS,Smartwings,Czech Republic,Prague,https://www.smartwings.com/,180,79,International,Active
+UAC,,United Air,United States,Chicago,,,,Domestic,Inactive
+UAE,UAE,Emirates,United Arab Emirates,Dubai,https://www.emirates.com/,250,317.5,International,Active
+UAL,UAL,United Airlines,United States,Chicago,https://www.united.com/,250,317.5,International,Active
+UBT,UBT,Uzbekistan Airways,Uzbekistan,Tashkent,https://www.uzairways.com/,250,317.5,International,Active
+UJT,,Ultimate Jet,United States,Fort Lauderdale,https://www.ultimatejet.com/,50,15,International,Active
+UNK,,Union Air,United States,Newark,,,,Domestic,Inactive
+UPS,UPS,United Parcel Service,United States,Louisville,https://www.ups.com/,,317.5,International,Active
+UZB,UBT,Uzbekistan Airways,Uzbekistan,Tashkent,https://www.uzairways.com/,250,317.5,International,Active
+VBB,,Viva Air Bolivia,Bolivia,La Paz,,,,International,Inactive
+VCJ,,Victory Air,United States,Atlanta,,,,Domestic,Inactive
+VIR,VIR,Virgin Atlantic,United Kingdom,London,https://www.virginatlantic.com/,250,317.5,International,Active
+VJH,,VistaJet,Hong Kong,Hong Kong,https://www.vistajet.com/,50,15,International,Active
+VJT,VJT,VistaJet,Malta,Luqa,https://www.vistajet.com/,50,15,International,Active
+VKG,VKG,Van Air Europe,Czech Republic,Brno,,,317.5,International,Active
+VLG,VLG,Vueling Airlines,Spain,Barcelona,https://www.vueling.com/,180,79,International,Active
+VLJ,VLJ,Volare Aviation,United Kingdom,London,https://www.volareaviation.co.uk/,50,15,International,Active
+VLV,,Avia Traffic Company,Kyrgyzstan,Bishkek,https://www.aero.kg/,180,79,International,Active
+VLX,,Voluxis,United Kingdom,Farnborough,https://www.voluxis.com/,50,15,International,Active
+VOE,VOE,Volotea,Spain,Barcelona,https://www.volotea.com/,180,79,International,Active
+VTI,VTI,Vistara,India,Delhi,https://www.airvistara.com/,180,79,International,Active
+WAA,WAA,Westair Aviation,Namibia,Windhoek,https://www.westair.com.na/,50,22.7,International,Active
+WFY,,Swift Air,United States,Phoenix,https://www.flyswiftair.com/,180,79,International,Active
+WIF,WIF,Widerøe,Norway,Bodø,https://www.wideroe.no/,50,22.7,International,Active
+WJA,WJA,WestJet,Canada,Calgary,https://www.westjet.com/,180,79,International,Active
+WMT,WMT,Wizz Air Malta,Malta,Luqa,https://www.wizzair.com/,180,79,International,Active
+WRC,,Wright Air Service,United States,Fairbanks,https://www.wrightairservice.com/,9,5.7,Domestic,Active
+WUK,WUK,Wizz Air UK,United Kingdom,London,https://www.wizzair.com/,180,79,International,Active
+WZZ,WZZ,Wizz Air,Hungary,Budapest,https://www.wizzair.com/,180,79,International,Active

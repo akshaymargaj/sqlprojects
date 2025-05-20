@@ -1,0 +1,3 @@
+Code,Flight_Type,Description,Operation_Mode,Typical_Use_Case,Regulatory_Requirements,Booking_Method,Status
+C,Charter,Flights operated on a non-scheduled basis,often chartered by groups,Organizations,Tour operators for specific purposes.,Non-Scheduled,Corporate charters
+S,Scheduled,Flights operated on a fixed timetable by commercial airlines,available to the public with regular routes and schedules,Regular Timetable,Commercial passenger travel,Business trips,Connecting flights within an airline's network.

@@ -1,0 +1,27 @@
+IATA,ICAO,Airport Name,City Served,Region,Location,Runways Count,Terminal Count,Owned By,Operated By,Website URL,Date Opened
+ABZ,EGPD,Aberdeen International Airport,Aberdeen,Scotland,"Dyce, Aberdeen, Scotland",1,1,Aberdeen International Airport Limited,AGS Airports,https://www.aberdeenairport.com/,1934
+BHD,EGAC,George Best Belfast City Airport,Belfast,Northern Ireland,"Belfast, Northern Ireland",1,1,Private ownership,Belfast City Airport,https://www.belfastcityairport.com/,1937
+BFS,EGAA,Belfast International Airport,Belfast,Northern Ireland,"Aldergrove, County Antrim, Northern Ireland",2,1,Vinci Airports,Vinci Airports,https://www.belfastairport.com/,1917
+BHX,EGBB,Birmingham Airport,Birmingham,England,"Bickenhill, West Midlands, England",1,2,Birmingham Airport Holdings,Birmingham Airport Holdings,https://www.birminghamairport.co.uk/,1939
+BOH,EGHH,Bournemouth Airport,Bournemouth,England,"Christchurch, Dorset, England",1,1,Regional & City Airports,Regional & City Airports,https://www.bournemouthairport.com/,1941
+BRS,EGGD,Bristol Airport,Bristol,England,"Lulsgate Bottom, North Somerset, England",1,1,Bristol Airport Limited,Bristol Airport Limited,https://www.bristolairport.co.uk/,1930
+CWL,EGFF,Cardiff Airport,Cardiff,Wales,"Rhoose, Vale of Glamorgan, Wales",1,1,Cardiff Airport Holdings,Cardiff Airport,https://www.cardiff-airport.com/,1931
+DSA,EGCN,Doncaster Sheffield Airport,Doncaster,England,"Finningley, South Yorkshire, England",1,1,Peel Group,Closed (2022),https://www.flydsa.co.uk/,2005
+EMA,EGNX,East Midlands Airport,Nottingham,England,"Castle Donington, Leicestershire, England",1,1,MAG (Manchester Airports Group),MAG,https://www.eastmidlandsairport.com/,1965
+EDI,EGPH,Edinburgh Airport,Edinburgh,Scotland,"Ingliston, Edinburgh, Scotland",2,1,Vinci Airports,Edinburgh Airport Ltd,https://www.edinburghairport.com/,1916
+EXT,EGTE,Exeter Airport,Exeter,England,"Clyst Honiton, Devon, England",1,1,Regional & City Airports,Exeter Airport,https://www.exeter-airport.co.uk/,1937
+GLA,EGPF,Glasgow International Airport,Glasgow,Scotland,"Paisley, Renfrewshire, Scotland",2,2,AGS Airports,AGS Airports,https://www.glasgowairport.com/,1932
+IOM,EGNS,Isle of Man Airport,Isle of Man,Isle of Man,"Ronaldsway, Malew, Isle of Man",2,1,Isle of Man Government,Isle of Man Airport,https://www.airport.im/,1929
+JER,EGJJ,Jersey Airport,Jersey,Channel Islands,"Saint Peter, Jersey",1,1,Ports of Jersey,Ports of Jersey,https://www.jerseyairport.com/,1937
+LBA,EGNM,Leeds Bradford Airport,Leeds,England,"Yeadon, West Yorkshire, England",1,1,LBA Holdings,Leeds Bradford Airport,https://www.leedsbradfordairport.co.uk/,1931
+LPL,EGGP,Liverpool John Lennon Airport,Liverpool,England,"Speke, Liverpool, England",1,1,MAG,Liverpool Airport Ltd,https://www.liverpoolairport.com/,1933
+LTN,EGGW,London Luton Airport,London,England,"Luton, Bedfordshire, England",1,2,Luton Borough Council,LLA Operations Ltd,https://www.london-luton.co.uk/,1938
+STN,EGSS,London Stansted Airport,London,England,"Stansted Mountfitchet, Essex, England",1,1,MAG,MAG,https://www.stanstedairport.com/,1943
+MAN,EGCC,Manchester Airport,Manchester,England,"Ringway, Manchester, England",2,3,MAG,MAG,https://www.manchesterairport.co.uk/,1938
+NCL,EGNT,Newcastle International Airport,Newcastle upon Tyne,England,"Woolsington, Newcastle upon Tyne, England",1,1,Newcastle Airport Local Authority Holding Company,Newcastle International Airport Ltd,https://www.newcastleairport.com/,1935
+SOU,EGHI,Southampton Airport,Southampton,England,"Eastleigh, Hampshire, England",1,1,AGS Airports,Southampton Airport,https://www.southamptonairport.com/,1910
+SEN,EGMC,London Southend Airport,London,England,"Southend-on-Sea, Essex, England",1,1,Esken,Esken,https://southendairport.com/,1914
+MME,EGNV,Durham Tees Valley Airport,Durham,England,"Middleton St George, County Durham, England",1,1,Peel Group,Durham Tees Valley Airport,https://www.durhamteesvalleyairport.com/,1941
+LGW,EGKK,London Gatwick Airport,London,England,"Crawley, West Sussex, England",2,2,Vinci Airports,Gatwick Airport Ltd,https://www.gatwickairport.com/,1933
+LHR,EGLL,London Heathrow Airport,London,England,"Hillingdon, London, England",2,4,Heathrow Airport Holdings,Heathrow Airport Holdings,https://www.heathrow.com/,1946
+LCY,EGLC,London City Airport,London,England,"Silvertown, London, England",1,1,Private consortium,London City Airport,https://www.londoncityairport.com/,1987

@@ -1,0 +1,17 @@
+DELAY_ID, DELAY_CODE , DELAY_NAME ,UNIT,SOURCE_SYSTEM, DELAY_SEVERITY, IS_ CANCELLATION
+cat1,AD,Average Delay,Minutes,Flight Tracking Database,Medium,FALSE
+cat2,E15 +,More Than 15 Minutes Early,Percent,Flight Tracking Database,None,FALSE
+cat3,E15 _E1 ,15 Minutes Early to 1 Minute Early,Percent,Flight Tracking Database,None,FALSE
+cat4,D0_15 ,Delay 0 to 15 Minutes,Percent,Flight Tracking Database,None,FALSE
+cat5,D16_30 ,Delay 16-30 Minutes,Percent,Flight Tracking Database,Low,FALSE
+cat6,D31_60 ,Delay 31-60 Minutes,Percent,Flight Tracking Database,Low,FALSE
+cat7,D61_120,Delay 61-120 Minutes,Percent,Flight Tracking Database,Medium,FALSE
+cat8,D121_180 ,Delay 121-180 Minutes,Percent,Flight Tracking Database,High,FALSE
+cat9,D181_360 ,Delay 181-360 Minutes,Percent,Flight Tracking Database,High,FALSE
+cat10,D360+,Delay More Than 360 Minutes,Percent,Flight Tracking Database,Extreme,FALSE
+cat11,CAN ,Cancellation,Percent,Airline Operations System,Cancellation,TRUE
+cat12,FM,Flights Matched,Count,Airline Operations System,None,FALSE
+cat13,FC,Flights Cancelled,Count,Airline Operations System,Low,FALSE
+cat14,D0 _15 _PY ,Previous Year 0 to 15 Minutes Late,Percent,Flight Tracking Database,Low,FALSE
+cat15,DAvg_PY,Previous Year Avg Delay,Minutes,Flight Tracking Database,Medium,FALSE
+cat16,DYM_FM,Previous Year Month Flights Matched,Count,Airline Operations System,High,FALSE

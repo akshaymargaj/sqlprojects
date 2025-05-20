@@ -1,0 +1,635 @@
+IATA,ICAO,Airport Name,City Served,Region,Location,Time Zone,Runways Count,Terminal Count,International Status,Owned By,Operated By,Website URL,Date Opened
+AAL,EKYT,Aalborg Airport,Aalborg,North Denmark,"Aalborg, Denmark",UTC+01:00,2,1,International,Aalborg Lufthavn A/S,Aalborg Lufthavn A/S,https://www.aal.dk/,1936
+AAR,EKAH,Aarhus Airport,Aarhus,Central Denmark,"Tirstrup, Aarhus, Denmark",UTC+01:00,2,1,International,Aarhus Lufthavn A/S,Aarhus Lufthavn A/S,https://www.aar.dk/,1943
+ABV,DNAA,Nnamdi Azikiwe International Airport,Abuja,Federal Capital Territory,"Abuja, Nigeria",UTC+01:00,1,2,International,Federal Airports Authority of Nigeria,Federal Airports Authority of Nigeria,https://www.faannigeria.org/,1982
+ABZ,EGPD,Aberdeen International Airport,Aberdeen,Scotland,"Dyce, Aberdeen, Scotland",UTC+00:00,1,1,International,Aberdeen International Airport Limited,AGS Airports,https://www.aberdeenairport.com/,1934
+ACC,DGAA,Kotoka International Airport,Accra,Greater Accra,"Accra, Ghana",UTC+00:00,2,3,International,Ghana Airports Company Limited,Ghana Airports Company Limited,https://www.ghanaairports.com.gh/,1957
+ACE,GCRR,César Manrique-Lanzarote Airport,Arrecife,Canary Islands,"Arrecife, Lanzarote, Spain",UTC+00:00,2,2,International,AENA,AENA,https://www.aena.es/,1970
+ACH,LSMA,Altenrhein Airport,St. Gallen,St. Gallen,"Altenrhein, Switzerland",UTC+01:00,1,1,International,Private ownership,People's Viennaline,https://www.peoples.ch/,1985
+ACI,EGJA,Alderney Airport,Alderney,Channel Islands,"Alderney, Channel Islands",UTC+00:00,3,1,Domestic,States of Guernsey,States of Guernsey,https://www.alderney.gov.gg/,1935
+ADA,LTAF,Adana Şakirpaşa Airport,Adana,Adana Province,"Adana, Turkey",UTC+03:00,1,1,International,DHMI (State Airports Authority),DHMI,https://www.dhmi.gov.tr/,1937
+ADB,LTBJ,İzmir Adnan Menderes Airport,İzmir,İzmir Province,"Gaziemir, İzmir, Turkey",UTC+03:00,2,2,International,TAV Airports,TAV Airports,https://www.adnanmenderesairport.com/,1987
+ADD,HAAB,Bole International Airport,Addis Ababa,Oromia,"Addis Ababa, Ethiopia",UTC+03:00,2,2,International,Ethiopian Airlines,Ethiopian Airports Enterprise,https://www.ethiopianairlines.com/,1961
+AES,ENAL,Ålesund Airport, Vigra,Ålesund,Møre og Romsdal,UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1958
+AEY,BIAR,Akureyri Airport,Akureyri,Northeast Iceland,"Akureyri, Iceland",UTC+00:00,1,1,International,Isavia,Isavia,https://www.isavia.is/,1928
+AGA,GMAD,Agadir–Al Massira Airport,Agadir,Souss-Massa,"Agadir, Morocco",UTC+01:00,1,1,International,ONDA (National Airports Authority),ONDA,https://www.onda.ma/,1952
+AGP,LEMG,Málaga–Costa del Sol Airport,Málaga,Andalusia,"Málaga, Spain",UTC+01:00,3,3,International,AENA,AENA,https://www.aena.es/,1919
+AHO,LIEA,Alghero–Fertilia Airport,Alghero,Sardinia,"Fertilia, Alghero, Italy",UTC+01:00,1,1,International,SOGEAAL,SOGEAAL,https://www.aeroportodialghero.it/,1971
+AJA,LFKJ,Ajaccio Napoleon Bonaparte Airport,Ajaccio,Corsica,"Ajaccio, France",UTC+01:00,1,1,International,CCI de la Corse du Sud,CCI de la Corse du Sud,https://www.2a.cci.fr/,1961
+AJR,ESNX,Arvidsjaur Airport,Arvidsjaur,Norrbotten,"Arvidsjaur, Sweden",UTC+01:00,1,1,Domestic,Arvidsjaur Municipality,Arvidsjaur Airport AB,https://www.arvidsjaurairport.se/,1990
+AKT,HDAK,RAF Akrotiri,Akrotiri,British Overseas Territory,"Akrotiri, Cyprus",UTC+02:00,1,1,Military,UK Ministry of Defence,UK Ministry of Defence,,1956
+ALA,UAAA,Almaty International Airport,Almaty,Almaty Region,"Almaty, Kazakhstan",UTC+05:00,2,2,International,Almaty International Airport JSC,Almaty International Airport JSC,https://www.almaty.aero/,1935
+ALC,LEAL,Alicante–Elche Miguel Hernández Airport,Alicante,Valencian Community,"Alicante, Spain",UTC+01:00,1,2,International,AENA,AENA,https://www.aena.es/,1967
+ALF,ENAT,Alta Airport,Alta,Finnmark,"Alta, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1963
+ALG,DAAG,Houari Boumediene Airport,Algiers,Algiers Province,"Algiers, Algeria",UTC+01:00,3,3,International,EGSA Alger,EGSA Alger,https://www.aeroporthouari-boumediene.dz/,1924
+AMD,VAAH,Sardar Vallabhbhai Patel International Airport,Ahmedabad,Gujarat,"Ahmedabad, India",UTC+05:30,2,2,International,Adani Airports,Adani Airports,https://www.adaniairports.com/,1937
+AMM,OJAI,Queen Alia International Airport,Amman,Amman Governorate,"Zizya, Amman, Jordan",UTC+03:00,2,2,International,Airport International Group,Airport International Group,https://www.qaiairport.com/,1983
+AMS,EHAM,Amsterdam Airport Schiphol,Amsterdam,North Holland,"Haarlemmermeer, Netherlands",UTC+01:00,6,3,International,Schiphol Group,Schiphol Group,https://www.schiphol.nl/,1916
+ANR,EBAW,Antwerp International Airport,Antwerp,Flanders,"Deurne, Antwerp, Belgium",UTC+01:00,1,1,International,EGIS,EGIS,https://www.antwerpairport.aero/,1923
+ANU,TAPA,V. C. Bird International Airport,Antigua,Saint John,"Osbourn, Antigua and Barbuda",UTC-04:00,1,1,International,Antigua and Barbuda Airport Authority,Antigua and Barbuda Airport Authority,https://www.vcbia.com/,1949
+AOI,LIPY,Ancona Falconara Airport,Ancona,Marche,"Falconara Marittima, Ancona, Italy",UTC+01:00,1,1,International,Aerdorica S.p.A.,Aerdorica S.p.A.,https://www.ancona-airport.com/,1928
+AQJ,OJAQ,King Hussein International Airport,Aqaba,Aqaba Governorate,"Aqaba, Jordan",UTC+03:00,1,1,International,Ayla Airports,Ayla Airports,https://www.aac.jo/,1976
+ARN,ESSA,Stockholm Arlanda Airport,Stockholm,Stockholm County,"Sigtuna, Stockholm, Sweden",UTC+01:00,3,4,International,Swedavia,Swedavia,https://www.swedavia.com/,1962
+ASB,UTAA,Ashgabat International Airport,Ashgabat,Ashgabat,"Ashgabat, Turkmenistan",UTC+05:00,1,2,International,Turkmenistan Airlines,Turkmenistan Airlines,https://www.airport.ashgabat.tm/,1996
+ASR,LTAU,Kayseri Erkilet Airport,Kayseri,Kayseri Province,"Kayseri, Turkey",UTC+03:00,2,2,International,DHMI,DHMI,https://www.dhmi.gov.tr/,1998
+ATH,LGAV,Athens International Airport,Athens,Attica,"Spata, Athens, Greece",UTC+02:00,2,2,International,Athens International Airport S.A.,Athens International Airport S.A.,https://www.aia.gr/,2001
+ATL,KATL,Hartsfield–Jackson Atlanta International Airport,Atlanta,Georgia,"Atlanta, Georgia, USA",UTC-05:00,5,2,International,City of Atlanta,Department of Aviation,https://www.atl.com/,1925
+ATQ,VIAR,Amritsar International Airport,Amritsar,Punjab,"Amritsar, Punjab, India",UTC+05:30,1,1,International,Airports Authority of India,Airports Authority of India,https://www.aai.aero/,1930
+AUA,TNCA,Queen Beatrix International Airport,Oranjestad,Aruba,"Oranjestad, Aruba",UTC-04:00,1,1,International,Aruba Airport Authority N.V.,Aruba Airport Authority N.V.,https://www.airportaruba.com/,1934
+AUF,LFLA,Auxerre–Branches Aerodrome,Auxerre,Burgundy,"Auxerre, France",UTC+01:00,2,1,Domestic,CCI de l'Yonne,CCI de l'Yonne,https://www.aerodrome-auxerre.fr/,1986
+AUH,OMAA,Abu Dhabi International Airport,Abu Dhabi,Abu Dhabi Emirate,"Abu Dhabi, UAE",UTC+04:00,3,3,International,Abu Dhabi Airports Company,Abu Dhabi Airports Company,https://www.abudhabiairport.ae/,1982
+AUS,KAUS,Austin–Bergstrom International Airport,Austin,Texas,"Austin, Texas, USA",UTC-06:00,2,2,International,City of Austin,Department of Aviation,https://www.austintexas.gov/,1999
+AVN,LFMV,Avignon–Provence Airport,Avignon,Provence-Alpes-Côte d'Azur,"Avignon, France",UTC+01:00,2,1,International,CCI du Vaucluse,CCI du Vaucluse,https://www.avignon.aero/,1937
+AYT,LTAI,Antalya Airport,Antalya,Antalya Province,"Antalya, Turkey",UTC+03:00,3,3,International,ICF Airports,ICF Airports,https://www.antalya-airport.aero/,1998
+AZI,OMAZ,Al Bateen Executive Airport,Abu Dhabi,Abu Dhabi Emirate,"Abu Dhabi, UAE",UTC+04:00,1,1,Domestic,Abu Dhabi Airports Company,Abu Dhabi Airports Company,https://www.albateenairport.ae/,1982
+BAH,OBBI,Bahrain International Airport,Muharraq,Muharraq Governorate,"Muharraq, Bahrain",UTC+03:00,1,2,International,Bahrain Airport Company,Bahrain Airport Company,https://www.bahrainairport.bh/,1927
+BBU,LROP,Băneasa – Aurel Vlaicu International Airport,Bucharest,Bucharest,"Băneasa, Bucharest, Romania",UTC+02:00,1,1,International,Compania Națională Aeroporturi București,Compania Națională Aeroporturi București,https://www.bucharestairports.ro/,1912
+BCM,LRBC,Bacău International Airport,Bacău,Bacău County,"Bacău, Romania",UTC+02:00,1,1,International,S.C. Blue Aero S.R.L.,S.C. Blue Aero S.R.L.,https://www.bacauairport.ro/,1946
+BCN,LEBL,Josep Tarradellas Barcelona–El Prat Airport,Barcelona,Catalonia,"El Prat de Llobregat, Barcelona, Spain",UTC+01:00,3,2,International,AENA,AENA,https://www.aena.es/,1918
+BDA,TXKF,L.F. Wade International Airport,St. George's,Bermuda,"St. George's, Bermuda",UTC-04:00,1,1,International,Bermuda Airport Authority,Bermuda Skyport Corporation,https://www.airport.bm/,1948
+BDS,LIBR,Brindisi Airport,Brindisi,Apulia,"Brindisi, Italy",UTC+01:00,2,1,International,Aeroporti di Puglia,Aeroporti di Puglia,https://www.aeroportidipuglia.it/,1930
+BDU,ENBD,Bardufoss Airport,Bardufoss,Troms og Finnmark,"Bardufoss, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1938
+BEB,EGPL,Benbecula Airport,Balivanich,Outer Hebrides,"Balivanich, Outer Hebrides, Scotland",UTC+00:00,1,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1936
+BEG,LYBE,Belgrade Nikola Tesla Airport,Belgrade,Belgrade,"Surčin, Belgrade, Serbia",UTC+01:00,2,2,International,VINCI Airports,VINCI Airports,https://www.beg.aero/,1962
+BER,EDDB,Berlin Brandenburg Airport,Berlin,Brandenburg,"Sch�nefeld, Brandenburg, Germany",UTC+01:00,2,3,International,Flughafen Berlin Brandenburg GmbH,Flughafen Berlin Brandenburg GmbH,https://www.berlin-airport.de/,2020
+BES,LFRB,Brest Bretagne Airport,Brest,Brittany,"Guipavas, Brest, France",UTC+01:00,1,1,International,CCI de Brest,CCI de Brest,https://www.brest.aeroport.bzh/,1937
+BEY,OLBA,Beirut–Rafic Hariri International Airport,Beirut,Beirut Governorate,"Beirut, Lebanon",UTC+02:00,2,1,International,Directorate General of Civil Aviation,Directorate General of Civil Aviation,https://www.beirutairport.gov.lb/,1954
+BFS,EGAA,Belfast International Airport,Belfast,Northern Ireland,"Aldergrove, County Antrim, Northern Ireland",UTC+00:00,2,1,International,Vinci Airports,Vinci Airports,https://www.belfastairport.com/,1917
+BGI,TBPB,Grantley Adams International Airport,Bridgetown,Christ Church,"Seawell, Christ Church, Barbados",UTC-04:00,1,1,International,Barbados Airport Services,Barbados Airport Services,https://www.gaia.bb/,1938
+BGO,ENBR,Bergen Airport,Flesland,Bergen,"Flesland, Bergen, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1955
+BGR,KBGR,Bangor International Airport,Bangor,Maine,"Bangor, Maine, USA",UTC-05:00,2,1,International,City of Bangor,Department of Aviation,https://www.flybangor.com/,1927
+BGW,ORBI,Baghdad International Airport,Baghdad,Baghdad Governorate,"Baghdad, Iraq",UTC+03:00,3,3,International,Iraqi Government,Iraqi Airports Management,https://www.baghdad-airport.com/,1982
+BGY,LIME,Il Caravaggio International Airport,Bergamo,Lombardy,"Orio al Serio, Bergamo, Italy",UTC+01:00,1,1,International,SACBO,SACBO,https://www.milanbergamoairport.it/,1970
+BHD,EGAC,George Best Belfast City Airport,Belfast,Northern Ireland,"Belfast, Northern Ireland",UTC+00:00,1,1,International,Private ownership,Belfast City Airport,https://www.belfastcityairport.com/,1937
+BHX,EGBB,Birmingham Airport,Birmingham,England,"Bickenhill, West Midlands, England",UTC+00:00,1,2,International,Birmingham Airport Holdings,Birmingham Airport Holdings,https://www.birminghamairport.co.uk/,1939
+BIA,LFKB,Bastia – Poretta Airport,Bastia,Corsica,"Lucciana, Bastia, France",UTC+01:00,1,1,International,CCI de la Haute-Corse,CCI de la Haute-Corse,https://www.bastia.aeroport.fr/,1961
+BIO,LEBB,Bilbao Airport,Bilbao,Basque Country,"Loiu, Bilbao, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1948
+BIQ,LFBZ,Biarritz Airport,Biarritz,Nouvelle-Aquitaine,"Biarritz, France",UTC+01:00,1,1,International,CCI de Bayonne Pays Basque,CCI de Bayonne Pays Basque,https://www.biarritz.aeroport.fr/,1954
+BJL,GBYD,Banjul International Airport,Banjul,Banjul,"Yundum, Banjul, Gambia",UTC+00:00,1,1,International,Gambia Civil Aviation Authority,Gambia Civil Aviation Authority,https://www.gambia-airport.com/,1931
+BJV,LTFE,Milas–Bodrum Airport,Bodrum,Muğla Province,"Milas, Muğla, Turkey",UTC+03:00,2,2,International,TAV Airports,TAV Airports,https://www.milasbodrumairport.com/,1997
+BJZ,LEBZ,Talayuela Airport,Badajoz,Extremadura,"Talayuela, Badajoz, Spain",UTC+01:00,1,1,Domestic,AENA,AENA,,1966
+BKK,VTBS,Suvarnabhumi Airport,Bangkok,Samut Prakan,"Bang Phli, Samut Prakan, Thailand",UTC+07:00,2,1,International,Airports of Thailand,Airports of Thailand,https://www.bangkokairportonline.com/,2006
+BLK,EGNH,Blackpool Airport,Blackpool,England,"St Annes, Lancashire, England",UTC+00:00,3,1,International,Balfour Beatty,Blackpool Airport Operations Ltd,https://www.blackpoolairport.com/,1909
+BLL,EKBI,Billund Airport,Billund,South Denmark,"Billund, Denmark",UTC+01:00,1,1,International,Billund Lufthavn A/S,Billund Lufthavn A/S,https://www.bll.dk/,1964
+BLQ,LIPE,Bologna Guglielmo Marconi Airport,Bologna,Emilia-Romagna,"Borgo Panigale, Bologna, Italy",UTC+01:00,1,1,International,Aeroporto di Bologna S.p.A.,Aeroporto di Bologna S.p.A.,https://www.bologna-airport.it/,1931
+BLR,VOBL,Kempegowda International Airport,Bengaluru,Karnataka,"Devanahalli, Bengaluru, India",UTC+05:30,2,2,International,Bangalore International Airport Limited,Bangalore International Airport Limited,https://www.bengaluruairport.com/,2008
+BMA,ESSB,Stockholm Bromma Airport,Stockholm,Stockholm County,"Bromma, Stockholm, Sweden",UTC+01:00,1,1,International,Swedavia,Swedavia,https://www.swedavia.com/,1936
+BNA,KBNA,Nashville International Airport,Nashville,Tennessee,"Nashville, Tennessee, USA",UTC-06:00,4,1,International,Metropolitan Nashville Airport Authority,Metropolitan Nashville Airport Authority,https://www.flynashville.com/,1937
+BNX,LQBK,Banja Luka International Airport,Banja Luka,Republika Srpska,"Mahovljani, Banja Luka, Bosnia and Herzegovina",UTC+01:00,1,1,International,Government of Republika Srpska,Banja Luka International Airport,https://www.banjaluka-airport.com/,1985
+BOD,LFBD,Bordeaux–Mérignac Airport,Bordeaux,Nouvelle-Aquitaine,"Mérignac, Bordeaux, France",UTC+01:00,3,3,International,CCI de Bordeaux,CCI de Bordeaux,https://www.bordeaux.aeroport.fr/,1917
+BOG,SKBO,El Dorado International Airport,Bogotá,Cundinamarca,"Bogotá, Colombia",UTC-05:00,2,2,International,OPAÍN,OPAÍN,https://www.eldorado.aero/,1959
+BOH,EGHH,Bournemouth Airport,Bournemouth,England,"Christchurch, Dorset, England",UTC+00:00,1,1,International,Regional & City Airports,Regional & City Airports,https://www.bournemouthairport.com/,1941
+BOJ,LBBG,Burgas Airport,Burgas,Burgas Province,"Sarafovo, Burgas, Bulgaria",UTC+02:00,1,1,International,Fraport Twin Star Airport Management,Fraport Twin Star Airport Management,https://www.burgas-airport.bg/,1927
+BOM,VABB,Chhatrapati Shivaji Maharaj International Airport,Mumbai,Maharashtra,"Mumbai, Maharashtra, India",UTC+05:30,2,2,International,Adani Airports,Adani Airports,https://www.csia.in/,1942
+BOO,ENBO,Bodø Airport,Bodø,Nordland,"Bodø, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1921
+BOS,KBOS,Logan International Airport,Boston,Massachusetts,"East Boston, Massachusetts, USA",UTC-05:00,6,4,International,Massachusetts Port Authority,Massachusetts Port Authority,https://www.massport.com/,1923
+BQH,EGKB,London Biggin Hill Airport,London,England,"Biggin Hill, Bromley, London, England",UTC+00:00,1,1,International,Biggin Hill Airport Limited,Biggin Hill Airport Limited,https://www.bigginhillairport.com/,1917
+BRE,EDDW,Bremen Airport,Bremen,Bremen,"Bremen, Germany",UTC+01:00,2,1,International,Flughafen Bremen GmbH,Flughafen Bremen GmbH,https://www.bremen-airport.com/,1913
+BRI,LIBD,Bari Karol Wojtyła Airport,Bari,Apulia,"Bari, Italy",UTC+01:00,1,1,International,Aeroporti di Puglia,Aeroporti di Puglia,https://www.aeroportidipuglia.it/,1930
+BRN,LSZB,Bern Airport,Bern,Bern,"Belp, Bern, Switzerland",UTC+01:00,2,1,International,Flughafen Bern AG,Flughafen Bern AG,https://www.flughafenbern.ch/,1929
+BRQ,LKTB,Brno–Tuřany Airport,Brno,South Moravian,"Tuřany, Brno, Czech Republic",UTC+01:00,2,1,International,Brno Airport Ltd.,Brno Airport Ltd.,https://www.brno-airport.cz/,1927
+BRR,EGPR,Barra Airport,Barra,Outer Hebrides,"North Bay, Barra, Scotland",UTC+00:00,3,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1936
+BRS,EGGD,Bristol Airport,Bristol,England,"Lulsgate Bottom, North Somerset, England",UTC+00:00,1,1,International,Bristol Airport Limited,Bristol Airport Limited,https://www.bristolairport.co.uk/,1930
+BRU,EBBR,Brussels Airport,Brussels,Flanders,"Zaventem, Brussels, Belgium",UTC+01:00,3,1,International,Brussels Airport Company,Brussels Airport Company,https://www.brusselsairport.be/,1940
+BSB,SBBR,Presidente Juscelino Kubitschek International Airport,Brasília,Federal District,"Brasília, Brazil",UTC-03:00,2,2,International,Inframerica,Inframerica,https://www.bsb.aero/,1957
+BTS,LZIB,Bratislava Airport,Bratislava,Bratislava Region,"Bratislava, Slovakia",UTC+01:00,2,1,International,Letisko M. R. Štefánika – Airport Bratislava,Letisko M. R. Štefánika – Airport Bratislava,https://www.bts.aero/,1951
+BUD,LHBP,Budapest Ferenc Liszt International Airport,Budapest,Pest County,"Budapest, Hungary",UTC+01:00,2,3,International,Budapest Airport Zrt.,Budapest Airport Zrt.,https://www.bud.hu/,1950
+BUF,KBUF,Buffalo Niagara International Airport,Buffalo,New York,"Cheektowaga, New York, USA",UTC-05:00,2,1,International,Niagara Frontier Transportation Authority,Niagara Frontier Transportation Authority,https://www.buffaloairport.com/,1926
+BVA,LFOB,Beauvais–Tillé Airport,Beauvais,Hauts-de-France,"Tillé, Beauvais, France",UTC+01:00,2,2,International,SAGEB,SAGEB,https://www.aeroportparisbeauvais.com/,1956
+BVC,GVBA,Aristides Pereira International Airport,Boa Vista,Boa Vista,"Rabil, Boa Vista, Cape Verde",UTC-01:00,1,1,International,ASA (Aeroportos e Segurança Aérea),ASA,https://www.asa.cv/,2007
+BVE,LFBV,Brive–Souillac Airport,Brive-la-Gaillarde,Nouvelle-Aquitaine,"Brive-la-Gaillarde, France",UTC+01:00,1,1,International,CCI de Brive,CCI de Brive,https://www.aeroport-brive-vallee-dordogne.fr/,2010
+BWE,EDWL,Braunschweig-Wolfsburg Airport,Braunschweig,Lower Saxony,"Braunschweig, Germany",UTC+01:00,1,1,International,Flughafen Braunschweig-Wolfsburg GmbH,Flughafen Braunschweig-Wolfsburg GmbH,https://www.flughafen-braunschweig-wolfsburg.de/,1936
+BWI,KBWI,Baltimore/Washington International Thurgood Marshall Airport,Baltimore,Maryland,"Linthicum, Maryland, USA",UTC-05:00,3,1,International,Maryland Aviation Administration,Maryland Aviation Administration,https://www.bwiairport.com/,1950
+BWN,WBGR,Bandar Seri Begawan International Airport,Bandar Seri Begawan,Brunei-Muara,"Bandar Seri Begawan, Brunei",UTC+08:00,1,1,International,Department of Civil Aviation Brunei,Department of Civil Aviation Brunei,https://www.civil-aviation.gov.bn/,1972
+BYJ,LPPB,Beja Airport,Beja,Alentejo,"Beja, Portugal",UTC+00:00,2,1,International,ANA Aeroportos de Portugal,ANA Aeroportos de Portugal,https://www.ana.pt/,2011
+BZG,EPBY,Bydgoszcz Ignacy Jan Paderewski Airport,Bydgoszcz,Kuyavian-Pomeranian,"Bydgoszcz, Poland",UTC+01:00,1,1,International,Port Lotniczy Bydgoszcz S.A.,Port Lotniczy Bydgoszcz S.A.,https://plb.pl/,1916
+BZO,LIPB,Bolzano Airport,Bolzano,Trentino-Alto Adige,"Bolzano, Italy",UTC+01:00,1,1,International,ABD Airport AG,ABD Airport AG,https://www.bolzanoairport.it/,1926
+BZR,LFMU,Béziers–Cap d'Agde Airport,Béziers,Occitanie,"Vias, Béziers, France",UTC+01:00,1,1,International,CCI de Béziers Saint-Pons,CCI de Béziers Saint-Pons,https://www.beziers.aeroport.fr/,1998
+BZZ,EGVN,RAF Brize Norton,Brize Norton,England,"Carterton, Oxfordshire, England",UTC+00:00,1,1,Military,UK Ministry of Defence,UK Ministry of Defence,https://www.raf.mod.uk/,1937
+CAE,KCAE,Columbia Metropolitan Airport,Columbia,South Carolina,"West Columbia, South Carolina, USA",UTC-05:00,2,1,International,Richland-Lexington Airport District,Richland-Lexington Airport District,https://www.flycae.com/,1967
+CAG,LIEO,Cagliari Elmas Airport,Cagliari,Sardinia,"Elmas, Cagliari, Italy",UTC+01:00,1,1,International,SOGAER,SOGAER,https://www.sogaer.it/,1937
+CAI,HECA,Cairo International Airport,Cairo,Cairo Governorate,"Cairo, Egypt",UTC+02:00,3,3,International,Cairo Airport Company,Cairo Airport Company,https://www.cairo-airport.com/,1963
+CAL,EGEC,Campbeltown Airport,Campbeltown,Scotland,"Machrihanish, Argyll and Bute, Scotland",UTC+00:00,2,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1940
+CAN,ZGGG,Guangzhou Baiyun International Airport,Guangzhou,Guangdong,"Huadu, Guangzhou, China",UTC+08:00,3,2,International,Guangdong Airport Authority,Guangdong Airport Authority,https://www.gbiac.net/,2004
+CAT,LPCS,Cascais Aerodrome,Cascais,Lisbon,"Cascais, Portugal",UTC+00:00,1,1,Domestic,CM Cascais,CM Cascais,https://www.aerodromomunicipalcascais.pt/,1964
+CBG,EGSC,Cambridge City Airport,Cambridge,England,"Teversham, Cambridge, England",UTC+00:00,4,1,International,Marshall Aerospace,Marshall Aerospace,https://www.cambridgeairport.com/,1938
+CCF,LFMK,Carcassonne Airport,Carcassonne,Occitanie,"Carcassonne, France",UTC+01:00,1,1,International,CCI de Carcassonne,CCI de Carcassonne,https://www.aeroport-carcassonne.com/,1956
+CCU,VECC,Netaji Subhas Chandra Bose International Airport,Kolkata,West Bengal,"Dum Dum, Kolkata, India",UTC+05:30,2,2,International,Airports Authority of India,Airports Authority of India,https://www.aai.aero/,1924
+CDG,LFPG,Paris Charles de Gaulle Airport,Paris,Île-de-France,"Roissy-en-France, Paris, France",UTC+01:00,4,3,International,Groupe ADP,Groupe ADP,https://www.parisaeroport.fr/,1974
+CDT,LECS,Castellón–Costa Azahar Airport,Castellón,Valencian Community,"Vilanova d'Alcolea, Castellón, Spain",UTC+01:00,1,1,International,Aerocas,Aerocas,https://www.aerocas.com/,2011
+CEG,EGNR,Hawarden Airport,Chester,Wales,"Hawarden, Flintshire, Wales",UTC+00:00,1,1,International,Airbus UK,Airbus UK,https://www.hawardenairport.co.uk/,1940
+CEQ,LFMH,Cannes–Mandelieu Airport,Cannes,Provence-Alpes-Côte d'Azur,"Mandelieu-la-Napoule, Cannes, France",UTC+01:00,2,1,International,Aéroports de la Côte d'Azur,Aéroports de la Côte d'Azur,https://www.cannes.aeroport.fr/,1930
+CFE,LFLC,Clermont-Ferrand Auvergne Airport,Clermont-Ferrand,Auvergne-Rhône-Alpes,"Aulnat, Clermont-Ferrand, France",UTC+01:00,3,1,International,VINCI Airports,VINCI Airports,https://www.clermont-aeroport.com/,1916
+CFN,EGEC,Donegal Airport,Donegal,County Donegal,"Carrickfinn, Donegal, Ireland",UTC+00:00,1,1,International,Donegal County Council,Donegal Airport,https://www.donegalairport.ie/,1986
+CFR,LFRK,Caen–Carpiquet Airport,Caen,Normandy,"Carpiquet, Caen, France",UTC+01:00,2,1,International,CCI de Caen,CCI de Caen,https://www.caen.aeroport.fr/,1938
+CFU,LGKR,Corfu International Airport,Corfu,Ionian Islands,"Corfu, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.cfu-airport.gr/,1965
+CGN,EDDK,Cologne Bonn Airport,Cologne,North Rhine-Westphalia,"Cologne, Germany",UTC+01:00,2,2,International,Flughafen Köln/Bonn GmbH,Flughafen Köln/Bonn GmbH,https://www.koeln-bonn-airport.de/,1913
+CGO,ZHCC,Zhengzhou Xinzheng International Airport,Zhengzhou,Henan,"Xinzheng, Zhengzhou, China",UTC+08:00,2,2,International,Henan Airport Group,Henan Airport Group,https://www.zzairport.com/,1997
+CHQ,LGSA,Chania International Airport,Chania,Crete,"Chania, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.chq-airport.gr/,1967
+CHR,LFQS,Châteauroux-Centre Marcel Dassault Airport,Châteauroux,Centre-Val de Loire,"Déols, Châteauroux, France",UTC+01:00,2,1,International,CCI de l'Indre,CCI de l'Indre,https://www.chateauroux-airport.com/,1936
+CHS,KCHS,Charleston International Airport,Charleston,South Carolina,"North Charleston, South Carolina, USA",UTC-05:00,2,1,International,Charleston County Aviation Authority,Charleston County Aviation Authority,https://www.iflychs.com/,1928
+CIA,LIRA,Rome Ciampino Airport,Rome,Lazio,"Ciampino, Rome, Italy",UTC+01:00,1,1,International,Aeroporti di Roma,Aeroporti di Roma,https://www.adr.it/,1916
+CIY,LICC,Comiso Airport,Comiso,Sicily,"Comiso, Sicily, Italy",UTC+01:00,1,1,International,SAC – Società Aeroporto Catania,SAC,https://www.aeroportodicomiso.eu/,2013
+CKG,ZUCK,Chongqing Jiangbei International Airport,Chongqing,Chongqing,"Yubei, Chongqing, China",UTC+08:00,3,3,International,Chongqing Airport Group,Chongqing Airport Group,https://www.cqa.cn/,1990
+CKY,GFLL,Conakry International Airport,Conakry,Conakry,"Conakry, Guinea",UTC+00:00,1,1,International,SOGEAC,SOGEAC,https://www.aeroport-conakry.com/,1985
+CLJ,LRCL,Cluj-Napoca International Airport,Cluj-Napoca,Cluj County,"Someșeni, Cluj-Napoca, Romania",UTC+02:00,1,2,International,Cluj-Napoca International Airport,Cluj-Napoca International Airport,https://www.airportcluj.ro/,1932
+CLT,KCLT,Charlotte Douglas International Airport,Charlotte,North Carolina,"Charlotte, North Carolina, USA",UTC-05:00,4,1,International,City of Charlotte,Charlotte Aviation Department,https://www.cltairport.com/,1935
+CLY,LFKC,Calvi–Sainte-Catherine Airport,Calvi,Corsica,"Calvi, France",UTC+01:00,1,1,International,CCI de la Haute-Corse,CCI de la Haute-Corse,https://www.calvi.aeroport.fr/,1951
+CMB,VCBI,Bandaranaike International Airport,Colombo,Western Province,"Katunayake, Colombo, Sri Lanka",UTC+05:30,1,3,International,Airport and Aviation Services,Airport and Aviation Services,https://www.airport.lk/,1967
+CMF,LFLB,Chambéry-Savoie Airport,Chambéry,Auvergne-Rhône-Alpes,"Voglans, Chambéry, France",UTC+01:00,2,1,International,CCI de Savoie,VINCI Airports,https://www.chambery-airport.com/,1960
+CMH,KCMH,John Glenn Columbus International Airport,Columbus,Ohio,"Columbus, Ohio, USA",UTC-05:00,2,1,International,Columbus Regional Airport Authority,Columbus Regional Airport Authority,https://www.flycolumbus.com/,1929
+CMN,GMMN,Mohammed V International Airport,Casablanca,Grand Casablanca,"Nouaceur, Casablanca, Morocco",UTC+01:00,2,3,International,ONDA (National Airports Authority),ONDA,https://www.onda.ma/,1943
+CND,LRCN,Constanța Mihail Kogălniceanu Airport,Constanța,Constanța County,"Mihail Kogălniceanu, Constanța, Romania",UTC+02:00,1,1,International,National Company Constanța Airport,National Company Constanța Airport,https://www.mk-airport.ro/,1960
+COK,VOCI,Cochin International Airport,Kochi,Kerala,"Nedumbassery, Kochi, India",UTC+05:30,1,3,International,Cochin International Airport Limited,Cochin International Airport Limited,https://www.cial.aero/,1999
+COV,LPCV,Covilhã Aerodrome,Covilhã,Beira Interior Norte,"Covilhã, Portugal",UTC+00:00,1,1,Domestic,Municipality of Covilhã,Municipality of Covilhã,,1965
+CPH,EKCH,Copenhagen Airport,Copenhagen,Capital Region,"Kastrup, Copenhagen, Denmark",UTC+01:00,3,3,International,Copenhagen Airports A/S,Copenhagen Airports A/S,https://www.cph.dk/,1925
+CPT,FACT,Cape Town International Airport,Cape Town,Western Cape,"Cape Town, South Africa",UTC+02:00,2,2,International,Airports Company South Africa,Airports Company South Africa,https://www.airports.co.za/,1954
+CRA,LRCV,Craiova International Airport,Craiova,Dolj County,"Craiova, Romania",UTC+02:00,1,1,International,Craiova International Airport,Craiova International Airport,https://www.aeroportcraiova.ro/,1938
+CRL,EBCI,Brussels South Charleroi Airport,Charleroi,Wallonia,"Gosselies, Charleroi, Belgium",UTC+01:00,1,2,International,Brussels South Charleroi Airport S.A.,Brussels South Charleroi Airport S.A.,https://www.charleroi-airport.com/,1919
+CSX,ZGHA,Changsha Huanghua International Airport,Changsha,Hunan,"Huanghua, Changsha, China",UTC+08:00,2,2,International,Hunan Airport Authority,Hunan Airport Authority,https://www.hunanairport.cn/,1989
+CTA,LICC,Catania–Fontanarossa Airport,Catania,Sicily,"Catania, Italy",UTC+01:00,1,1,International,SAC – Società Aeroporto Catania,SAC,https://www.aeroporto.catania.it/,1924
+CTU,ZUUU,Chengdu Shuangliu International Airport,Chengdu,Sichuan,"Shuangliu, Chengdu, China",UTC+08:00,2,2,International,Sichuan Province Airport Group,Sichuan Province Airport Group,https://www.cdairport.com/,1938
+CUN,MMUN,Cancún International Airport,Cancún,Quintana Roo,"Cancún, Mexico",UTC-05:00,4,4,International,Grupo Aeroportuario del Sureste,Grupo Aeroportuario del Sureste,https://www.cancun-airport.com/,1974
+CUR,TNCC,Hato International Airport,Willemstad,Curaçao,"Willemstad, Curaçao",UTC-04:00,1,1,International,Curaçao Airport Holding,Curaçao Airport Partners,https://www.curacao-airport.com/,1977
+CVG,KCVG,Cincinnati/Northern Kentucky International Airport,Cincinnati,Ohio,"Hebron, Kentucky, USA",UTC-05:00,4,1,International,Kenton County Airport Board,Kenton County Airport Board,https://www.cvgairport.com/,1947
+CWE,UKLN,Chernivtsi International Airport,Chernivtsi,Chernivtsi Oblast,"Chernivtsi, Ukraine",UTC+02:00,1,1,International,Chernivtsi City Council,Chernivtsi International Airport,https://www.chn.at.ua/,1937
+CWL,EGFF,Cardiff Airport,Cardiff,Wales,"Rhoose, Vale of Glamorgan, Wales",UTC+00:00,1,1,International,Cardiff Airport Holdings,Cardiff Airport,https://www.cardiff-airport.com/,1931
+DAC,VGHS,Hazrat Shahjalal International Airport,Dhaka,Dhaka Division,"Kurmitola, Dhaka, Bangladesh",UTC+06:00,1,3,International,Civil Aviation Authority of Bangladesh,Civil Aviation Authority of Bangladesh,https://www.caab.gov.bd/,1980
+DBV,LDDU,Dubrovnik Airport,Dubrovnik,Dubrovnik-Neretva County,"Čilipi, Dubrovnik, Croatia",UTC+01:00,1,2,International,Dubrovnik Airport Ltd.,Dubrovnik Airport Ltd.,https://www.airport-dubrovnik.hr/,1962
+DEB,LHDC,Debrecen International Airport,Debrecen,Hajdú-Bihar County,"Debrecen, Hungary",UTC+01:00,1,1,International,Debrecen International Airport Ltd.,Debrecen International Airport Ltd.,https://www.debrecenairport.com/,1925
+DEL,VIDP,Indira Gandhi International Airport,Delhi,Delhi,"Palam, Delhi, India",UTC+05:30,3,3,International,Delhi International Airport Limited,GMR Group,https://www.newdelhiairport.in/,1930
+DEN,KDEN,Denver International Airport,Denver,Colorado,"Denver, Colorado, USA",UTC-07:00,6,1,International,City and County of Denver,Department of Aviation,https://www.flydenver.com/,1995
+DFW,KDFW,Dallas/Fort Worth International Airport,Dallas,Texas,"D FW Airport, Texas, USA",UTC-06:00,7,5,International,DFW Airport Board,DFW Airport Board,https://www.dfwairport.com/,1974
+DGA,MDDS,Dangriga Airport,Dangriga,Stann Creek District,"Dangriga, Belize",UTC-06:00,1,1,Domestic,Belize Airports Authority,Belize Airports Authority,,1960
+DHN,KDHN,Dothan Regional Airport,Dothan,Alabama,"Dothan, Alabama, USA",UTC-06:00,2,1,Domestic,City of Dothan,Dothan Regional Airport Authority,https://www.flydothan.com/,1941
+DIY,LTCC,Diyarbakır Airport,Diyarbakır,Diyarbakır Province,"Diyarbakır, Turkey",UTC+03:00,1,1,International,DHMI,DHMI,https://www.dhmi.gov.tr/,1952
+DJE,DTTD,Monastir Habib Bourguiba International Airport,Monastir,Monastir Governorate,"Monastir, Tunisia",UTC+01:00,1,1,International,TAV Airports,TAV Airports,https://www.monastirairport.com/,1968
+DLC,ZGDL,Dalian Zhoushuizi International Airport,Dalian,Liaoning,"Ganjingzi, Dalian, China",UTC+08:00,1,1,International,Dalian Airport Group,Dalian Airport Group,https://www.dlairport.com/,1972
+DLE,LFQT,Dole–Jura Airport,Dole,Bourgogne-Franche-Comté,"Tavaux, Dole, France",UTC+01:00,1,1,International,CCI du Jura,CCI du Jura,https://www.aeroportdolejura.com/,1970
+DLM,LTBS,Dalaman Airport,Dalaman,Muğla Province,"Dalaman, Muğla, Turkey",UTC+03:00,1,2,International,YDA Group,YDA Group,https://www.yda.aero/,1987
+DME,UUDD,Moscow Domodedovo Airport,Moscow,Moscow Oblast,"Domodedovo, Moscow, Russia",UTC+03:00,2,1,International,Domodedovo International Airport,Domodedovo International Airport,https://www.dme.ru/,1965
+DMK,VTBD,Don Mueang International Airport,Bangkok,Bangkok,"Don Mueang, Bangkok, Thailand",UTC+07:00,2,2,International,Airports of Thailand,Airports of Thailand,https://www.donmueangairport.com/,1914
+DND,EGPN,Dundee Airport,Dundee,Scotland,"Riverside, Dundee, Scotland",UTC+00:00,1,1,International,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1947
+DNK,UKDD,Dnipro International Airport,Dnipro,Dnipropetrovsk Oblast,"Dnipro, Ukraine",UTC+02:00,1,1,International,Dniproavia,Dniproavia,https://www.dnk.aero/,1944
+DOH,OTHH,Hamad International Airport,Doha,Al Rayyan,"Doha, Qatar",UTC+03:00,1,2,International,Qatar Airways,Qatar Airports Management,https://www.dohaairport.com/,2014
+DRS,EDDC,Dresden Airport,Dresden,Saxony,"Klotzsche, Dresden, Germany",UTC+01:00,1,1,International,Flughafen Dresden GmbH,Flughafen Dresden GmbH,https://www.dresden-airport.de/,1935
+DRW,YPDN,Darwin International Airport,Darwin,Northern Territory,"Marrara, Darwin, Australia",UTC+09:30,1,1,International,Airport Development Group,Airport Development Group,https://www.darwinairport.com.au/,1940
+DSA,EGCN,Doncaster Sheffield Airport,Doncaster,England,"Finningley, South Yorkshire, England",UTC+00:00,1,1,International,Peel Group,Closed (2022),https://www.flydsa.co.uk/,2005
+DSS,GOOY,Blaise Diagne International Airport,Dakar,Thiès Region,"Diass, Dakar, Senegal",UTC+00:00,1,1,International,LAS (Limak-AIBD-Summa),LAS,https://www.dakar-aeroport.com/,2017
+DTM,EDLW,Dortmund Airport,Dortmund,North Rhine-Westphalia,"Dortmund, Germany",UTC+01:00,1,1,International,Flughafen Dortmund GmbH,Flughafen Dortmund GmbH,https://www.dortmund-airport.de/,1925
+DTW,KDTW,Detroit Metropolitan Wayne County Airport,Detroit,Michigan,"Romulus, Michigan, USA",UTC-05:00,6,2,International,Wayne County Airport Authority,Wayne County Airport Authority,https://www.metroairport.com/,1930
+DUB,EIDW,Dublin Airport,Dublin,County Dublin,"Collinstown, Dublin, Ireland",UTC+00:00,2,2,International,daa,daa,https://www.dublinairport.com/,1940
+DUR,FALE,King Shaka International Airport,Durban,KwaZulu-Natal,"La Mercy, Durban, South Africa",UTC+02:00,1,2,International,Airports Company South Africa,Airports Company South Africa,https://www.airports.co.za/,2010
+DUS,EDDL,Düsseldorf Airport,Düsseldorf,North Rhine-Westphalia,"Düsseldorf, Germany",UTC+01:00,1,3,International,Flughafen Düsseldorf GmbH,Flughafen Düsseldorf GmbH,https://www.dus.com/,1927
+DXB,OMDB,Dubai International Airport,Dubai,Dubai Emirate,"Garhoud, Dubai, UAE",UTC+04:00,2,3,International,Dubai Airports Company,Dubai Airports Company,https://www.dubaiairports.ae/,1960
+EAS,LESO,San Sebastián Airport,San Sebastián,Basque Country,"Hondarribia, San Sebastián, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1955
+EBJ,EKEB,Esbjerg Airport,Esbjerg,South Denmark,"Esbjerg, Denmark",UTC+01:00,2,1,International,Esbjerg Municipality,Esbjerg Airport,https://www.esbjerg-lufthavn.dk/,1971
+EBL,ORER,Erbil International Airport,Erbil,Erbil Governorate,"Erbil, Iraq",UTC+03:00,1,1,International,Kurdistan Regional Government,Erbil International Airport,https://www.erbilairport.com/,2010
+EBU,LFMZ,Saint-Étienne–Bouthéon Airport,Saint-Étienne,Auvergne-Rhône-Alpes,"Andrézieux-Bouthéon, Saint-Étienne, France",UTC+01:00,1,1,International,CCI de Saint-Étienne,CCI de Saint-Étienne,https://www.st-etienne.aeroport.fr/,1960
+EDI,EGPH,Edinburgh Airport,Edinburgh,Scotland,"Ingliston, Edinburgh, Scotland",UTC+00:00,2,1,International,Vinci Airports,Edinburgh Airport Ltd,https://www.edinburghairport.com/,1916
+EFL,LGKF,Kefalonia International Airport,Kefalonia,Ionian Islands,"Kefalonia, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.kefaloniaairport.info/,1971
+EGC,LFBE,Bergerac Dordogne Périgord Airport,Bergerac,Nouvelle-Aquitaine,"Bergerac, France",UTC+01:00,1,1,International,CCI de la Dordogne,CCI de la Dordogne,https://www.bergerac.aeroport.fr/,1930
+EGHF,EGHF,Lee-on-Solent Airfield,Lee-on-Solent,England,"Lee-on-Solent, Hampshire, England",UTC+00:00,2,1,Domestic,Fareham Borough Council,Fareham Borough Council,,1917
+EGS,BIEG,Egilsstaðir Airport,Egilsstaðir,East Iceland,"Egilsstaðir, Iceland",UTC+00:00,1,1,International,Isavia,Isavia,https://www.isavia.is/,1960
+EIN,EHEH,Eindhoven Airport,Eindhoven,North Brabant,"Eindhoven, Netherlands",UTC+01:00,1,1,International,Eindhoven Airport N.V.,Eindhoven Airport N.V.,https://www.eindhovenairport.nl/,1932
+EMA,EGNX,East Midlands Airport,Nottingham,England,"Castle Donington, Leicestershire, England",UTC+00:00,1,1,International,MAG (Manchester Airports Group),MAG,https://www.eastmidlandsairport.com/,1965
+ENF,EFET,Enontekiö Airport,Enonteki�,Lapland,"Enonteki�, Finland",UTC+02:00,1,1,International,Finavia,Finavia,https://www.finavia.fi/,1985
+ERF,EDDE,Erfurt–Weimar Airport,Erfurt,Thuringia,"Erfurt, Germany",UTC+01:00,1,1,International,Flughafen Erfurt GmbH,Flughafen Erfurt GmbH,https://www.flughafen-erfurt.de/,1935
+ERH,GMMI,Errachidia Moulay Ali Cherif Airport,Errachidia,Drâa-Tafilalet,"Errachidia, Morocco",UTC+01:00,1,1,International,ONDA (National Airports Authority),ONDA,https://www.onda.ma/,1950
+ESB,LTAE,Ankara Esenboğa Airport,Ankara,Ankara Province,"Akyurt, Ankara, Turkey",UTC+03:00,2,2,International,TAV Airports,TAV Airports,https://www.esenbogaairport.com/,1955
+ESU,GMMB,Essaouira-Mogador Airport,Essaouira,Marrakesh-Safi,"Essaouira, Morocco",UTC+01:00,1,1,International,ONDA (National Airports Authority),ONDA,https://www.onda.ma/,1998
+ETM,LLER,Ramon Airport,Eilat,Southern District,"Be'er Ora, Eilat, Israel",UTC+02:00,1,1,International,Israel Airports Authority,Israel Airports Authority,https://www.iaa.gov.il/,2019
+EVE,ENEV,Harstad/Narvik Airport, Evenes,Harstad,"Evenes, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1973
+EVN,UDYZ,Zvartnots International Airport,Yerevan,Yerevan,"Zvartnots, Yerevan, Armenia",UTC+04:00,1,2,International,Armenia International Airports CJSC,Armenia International Airports CJSC,https://www.zvartnots.aero/,1961
+EWR,KEWR,Newark Liberty International Airport,Newark,New Jersey,"Newark, New Jersey, USA",UTC-05:00,3,3,International,Port Authority of New York and New Jersey,Port Authority of New York and New Jersey,https://www.newarkairport.com/,1928
+EXT,EGTE,Exeter Airport,Exeter,England,"Clyst Honiton, Devon, England",UTC+00:00,1,1,International,Regional & City Airports,Regional & City Airports,https://www.exeter-airport.co.uk/,1937
+EZE,SAEZ,Ministro Pistarini International Airport,Buenos Aires,Buenos Aires Province,"Ezeiza, Buenos Aires, Argentina",UTC-03:00,3,3,International,Aeropuertos Argentina 2000,Aeropuertos Argentina 2000,https://www.aa2000.com.ar/,1949
+FAB,EGTF,Farnborough Airport,Farnborough,England,"Farnborough, Hampshire, England",UTC+00:00,1,1,International,TAG Aviation,TAG Aviation,https://www.farnboroughairport.com/,1949
+FAE,EKVG,Vágar Airport,Vágar,Faroe Islands,"Sørvágur, Vágar, Faroe Islands",UTC+00:00,1,1,International,Faroese Transport Authority,Faroese Transport Authority,https://www.fae.fo/,1942
+FAO,LPFR,Faro Airport,Faro,Algarve,"Faro, Portugal",UTC+00:00,1,1,International,ANA Aeroportos de Portugal,ANA Aeroportos de Portugal,https://www.ana.pt/,1965
+FCO,LIRF,Leonardo da Vinci–Fiumicino Airport,Rome,Lazio,"Fiumicino, Rome, Italy",UTC+01:00,4,3,International,Aeroporti di Roma,Aeroporti di Roma,https://www.adr.it/,1961
+FDH,EDNY,Friedrichshafen Airport,Friedrichshafen,Baden-Württemberg,"Friedrichshafen, Germany",UTC+01:00,1,1,International,Flughafen Friedrichshafen GmbH,Flughafen Friedrichshafen GmbH,https://www.bodensee-airport.eu/,1918
+FEZ,GMFF,Saïss Airport,Fes,Fes-Meknès,"Fes, Morocco",UTC+01:00,1,1,International,ONDA (National Airports Authority),ONDA,https://www.onda.ma/,1954
+FKB,EDSB,Karlsruhe/Baden-Baden Airport,Karlsruhe,Baden-Württemberg,"Rheinmünster, Karlsruhe, Germany",UTC+01:00,1,1,International,Baden-Airpark GmbH,Baden-Airpark GmbH,https://www.baden-airpark.de/,1953
+FLL,KFLL,Fort Lauderdale–Hollywood International Airport,Fort Lauderdale,Florida,"Fort Lauderdale, Florida, USA",UTC-05:00,3,4,International,Broward County,Broward County Aviation Department,https://www.fll.net/,1929
+FLR,LIRQ,Florence Airport,Florence,Tuscany,"Peretola, Florence, Italy",UTC+01:00,1,1,International,Toscana Aeroporti,Toscana Aeroporti,https://www.aeroporto.firenze.it/,1931
+FMM,EDJA,Memmingen Airport,Memmingen,Bavaria,"Memmingerberg, Memmingen, Germany",UTC+01:00,1,1,International,Allgäu Airport GmbH,Allgäu Airport GmbH,https://www.allgaeu-airport.de/,1936
+FMO,EDDG,Münster Osnabrück International Airport,Münster,North Rhine-Westphalia,"Greven, Münster, Germany",UTC+01:00,1,1,International,Flughafen Münster/Osnabrück GmbH,Flughafen Münster/Osnabrück GmbH,https://www.fmo.de/,1972
+FNC,LPPD,Madeira Airport,Funchal,Madeira,"Santa Cruz, Madeira, Portugal",UTC+00:00,1,1,International,ANA Aeroportos de Portugal,ANA Aeroportos de Portugal,https://www.aeroportomadeira.pt/,1964
+FNI,LFTW,Nîmes–Alès–Camargue–Cévennes Airport,Nîmes,Occitanie,"Garons, Nîmes, France",UTC+01:00,2,1,International,CCI de Nîmes,CCI de Nîmes,https://www.aeroport-nimes.fr/,1960
+FRA,EDDF,Frankfurt Airport,Frankfurt,Hesse,"Frankfurt, Germany",UTC+01:00,4,2,International,Fraport AG,Fraport AG,https://www.frankfurt-airport.com/,1936
+FRL,LIPK,Forlì Airport,Forlì,Emilia-Romagna,"Forlì, Italy",UTC+01:00,1,1,International,Forlì Airport S.p.A.,Forlì Airport S.p.A.,https://www.forli-airport.it/,1928
+FSC,LFKS,Figari–Sud Corse Airport,Figari,Corsica,"Figari, France",UTC+01:00,1,1,International,CCI de la Corse du Sud,CCI de la Corse du Sud,https://www.figari.aeroport.fr/,1975
+FUE,GCFV,Fuerteventura Airport,Puerto del Rosario,Canary Islands,"El Matorral, Fuerteventura, Spain",UTC+00:00,1,1,International,AENA,AENA,https://www.aena.es/,1969
+GCI,EGJB,Guernsey Airport,Guernsey,Channel Islands,"Forest, Guernsey, Channel Islands",UTC+00:00,1,1,International,States of Guernsey,States of Guernsey,https://www.guernsey-airport.gov.gg/,1939
+GCM,MWCR,Owen Roberts International Airport,George Town,Grand Cayman,"George Town, Cayman Islands",UTC-05:00,1,1,International,Cayman Islands Airports Authority,Cayman Islands Airports Authority,https://www.caymanairports.com/,1953
+GDN,EPGD,Gdańsk Lech Wałęsa Airport,Gdańsk,Pomeranian,"Matarnia, Gdańsk, Poland",UTC+01:00,1,2,International,Gdańsk Airport Sp. z o.o.,Gdańsk Airport Sp. z o.o.,https://www.airport.gdansk.pl/,1974
+GEO,SMJP,Dr. Ir. H. Sandi Paramaribo-Zanderij International Airport,Paramaribo,Paramaribo District,"Zanderij, Paramaribo, Suriname",UTC-03:00,1,1,International,Airport Management Ltd.,Airport Management Ltd.,https://www.smsz.org/,1943
+GHV,LRSI,Râmnicu Vâlcea Airport,Râmnicu Vâlcea,Vâlcea County,"Râmnicu Vâlcea, Romania",UTC+02:00,1,1,Domestic,Vâlcea County Council,Vâlcea County Council,,1970
+GIB,LXGB,Gibraltar International Airport,Gibraltar,Gibraltar,"Gibraltar, Gibraltar",UTC+01:00,1,1,International,Government of Gibraltar,Government of Gibraltar,https://www.gibraltarairport.gi/,1939
+GIG,SBGL,Rio de Janeiro–Galeão International Airport,Rio de Janeiro,Rio de Janeiro,"Galeão, Rio de Janeiro, Brazil",UTC-03:00,2,2,International,Changi Airports International,Changi Airports International,https://www.riogaleao.com/,1952
+GLA,EGPF,Glasgow Airport,Glasgow,Scotland,"Paisley, Renfrewshire, Scotland",UTC+00:00,2,2,International,AGS Airports,AGS Airports,https://www.glasgowairport.com/,1932
+GLO,EGXU,Gloucestershire Airport,Gloucester,England,"Staverton, Gloucestershire, England",UTC+00:00,3,1,International,Gloucestershire Airport Ltd.,Gloucestershire Airport Ltd.,https://www.gloucestershireairport.co.uk/,1931
+GNB,LFLS,Grenoble–Isère Airport,Grenoble,Auvergne-Rhône-Alpes,"Saint-Étienne-de-Saint-Geoirs, Grenoble, France",UTC+01:00,3,1,International,CCI de Grenoble,VINCI Airports,https://www.grenoble-airport.com/,1968
+GND,TGPY,Maurice Bishop International Airport,St. George's,St. George Parish,"Point Salines, St. George's, Grenada",UTC-04:00,1,1,International,Grenada Airports Authority,Grenada Airports Authority,https://www.gaa.gd/,1985
+GOA,LIMJ,Genoa Cristoforo Colombo Airport,Genoa,Liguria,"Sestri Ponente, Genoa, Italy",UTC+01:00,1,1,International,Aeroporti di Genova S.p.A.,Aeroporti di Genova S.p.A.,https://www.aeroportodigenova.it/,1962
+GOI,VAGO,Dabolim Airport,Goa,Goa,"Dabolim, Goa, India",UTC+05:30,1,1,International,Airports Authority of India,Airports Authority of India,https://www.aai.aero/,1966
+GOT,ESGG,Gothenburg Landvetter Airport,Gothenburg,Västra Götaland,"Härryda, Gothenburg, Sweden",UTC+01:00,1,1,International,Swedavia,Swedavia,https://www.swedavia.com/,1977
+GRB,KGRB,Austin Straubel International Airport,Green Bay,Wisconsin,"Ashwaubenon, Wisconsin, USA",UTC-06:00,2,1,International,Brown County,Brown County Airport Department,https://www.flygrb.com/,1960
+GRO,LEGE,Girona–Costa Brava Airport,Girona,Catalonia,"Vilobí d'Onyar, Girona, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1965
+GRU,SBGR,São Paulo–Guarulhos International Airport,São Paulo,São Paulo,"Guarulhos, São Paulo, Brazil",UTC-03:00,3,3,International,Invepar,Invepar,https://www.gru.com.br/,1985
+GRX,LEGR,Federico García Lorca Granada-Jaén Airport,Granada,Andalusia,"Chauchina, Granada, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1972
+GRZ,LOWG,Graz Airport,Graz,Styria,"Feldkirchen, Graz, Austria",UTC+01:00,1,1,International,Graz Airport Operating Company,Graz Airport Operating Company,https://www.flughafen-graz.at/,1937
+GUY,KGUY,Guymon Municipal Airport,Guymon,Oklahoma,"Guymon, Oklahoma, USA",UTC-06:00,2,1,Domestic,City of Guymon,City of Guymon,,1940
+GVA,LSGG,Geneva Airport,Geneva,Geneva,"Grand-Saconnex, Geneva, Switzerland",UTC+01:00,2,1,International,État de Genève,État de Genève,https://www.gva.ch/,1919
+GYD,UBBB,Heydar Aliyev International Airport,Baku,Baku,"Bina, Baku, Azerbaijan",UTC+04:00,2,2,International,Azerbaijan Airlines,Azerbaijan Airlines,https://www.airport.az/,1938
+GZT,LTAJ,Gaziantep Oğuzeli Airport,Gaziantep,Gaziantep Province,"Oğuzeli, Gaziantep, Turkey",UTC+03:00,1,1,International,DHMI,DHMI,https://www.dhmi.gov.tr/,1976
+HAD,ESMT,Halmstad Airport,Halmstad,Halland,"Halmstad, Sweden",UTC+01:00,1,1,International,Halmstad Municipality,Halmstad Airport AB,https://www.halmstadairport.se/,1970
+HAJ,EDDV,Hannover Airport,Hannover,Lower Saxony,"Langenhagen, Hannover, Germany",UTC+01:00,3,3,International,Hannover Airport GmbH,Hannover Airport GmbH,https://www.hannover-airport.de/,1952
+HAK,ZJHK,Haikou Meilan International Airport,Haikou,Hainan,"Meilan, Haikou, China",UTC+08:00,2,2,International,Hainan Meilan International Airport Co.,Hainan Meilan International Airport Co.,https://www.mlairport.com/,1999
+HAM,EDDH,Hamburg Airport,Hamburg,Hamburg,"Fuhlsbüttel, Hamburg, Germany",UTC+01:00,2,2,International,Flughafen Hamburg GmbH,Flughafen Hamburg GmbH,https://www.hamburg-airport.de/,1911
+HAN,VVNB,Nội Bài International Airport,Hanoi,Hanoi,"Sóc Sơn, Hanoi, Vietnam",UTC+07:00,2,2,International,Vietnam Airports Corporation,Vietnam Airports Corporation,https://www.vietnamairport.vn/,1975
+HAU,ENHD,Haugesund Airport,Haugesund,Rogaland,"Karmøy, Haugesund, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1975
+HEL,EFHK,Helsinki-Vantaa Airport,Helsinki,Uusimaa,"Vantaa, Helsinki, Finland",UTC+02:00,3,1,International,Finavia,Finavia,https://www.finavia.fi/,1952
+HER,LGIR,Heraklion International Airport,Heraklion,Crete,"Heraklion, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.heraklion-airport.gr/,1937
+HGH,ZSHC,Hangzhou Xiaoshan International Airport,Hangzhou,Zhejiang,"Xiaoshan, Hangzhou, China",UTC+08:00,2,3,International,Hangzhou Xiaoshan International Airport Co.,Hangzhou Xiaoshan International Airport Co.,https://www.hzairport.com/,2000
+HHN,EDFH,Frankfurt–Hahn Airport,Frankfurt,Rhineland-Palatinate,"Hahn, Rhineland-Palatinate, Germany",UTC+01:00,1,1,International,Flughafen Frankfurt-Hahn GmbH,Flughafen Frankfurt-Hahn GmbH,https://www.hahn-airport.de/,1993
+HKG,VHHH,Hong Kong International Airport,Hong Kong,Hong Kong,"Chek Lap Kok, Hong Kong",UTC+08:00,2,2,International,Airport Authority Hong Kong,Airport Authority Hong Kong,https://www.hongkongairport.com/,1998
+HKT,VTSP,Phuket International Airport,Phuket,Phuket,"Thalang, Phuket, Thailand",UTC+07:00,1,2,International,Airports of Thailand,Airports of Thailand,https://www.phuketairportthai.com/,1988
+HLE,FAHL,Hluhluwe Airport,Hluhluwe,KwaZulu-Natal,"Hluhluwe, South Africa",UTC+02:00,1,1,Domestic,Hluhluwe Municipality,Hluhluwe Municipality,,1970
+HME,DAFH,Hassi Messaoud Oued Irara Airport,Hassi Messaoud,Ouargla Province,"Hassi Messaoud, Algeria",UTC+01:00,2,1,International,EGSA Oran,EGSA Oran,https://www.egsaoran.dz/,1970
+HND,RJTT,Tokyo Haneda Airport,Tokyo,Tokyo,"Ōta, Tokyo, Japan",UTC+09:00,4,3,International,Japan Airport Terminal Co.,Japan Airport Terminal Co.,https://www.tokyo-haneda.com/,1931
+HPN,KHPN,Westchester County Airport,White Plains,New York,"Westchester County, New York, USA",UTC-05:00,2,1,International,Westchester County,Westchester County,https://www.airport.westchestergov.com/,1948
+HRE,FLHN,Robert Gabriel Mugabe International Airport,Harare,Harare Province,"Harare, Zimbabwe",UTC+02:00,2,2,International,Civil Aviation Authority of Zimbabwe,Civil Aviation Authority of Zimbabwe,https://www.caaz.co.zw/,1956
+HRG,HEGN,Hurghada International Airport,Hurghada,Red Sea Governorate,"Hurghada, Egypt",UTC+02:00,2,2,International,Egyptian Holding Company for Airports,Egyptian Holding Company for Airports,https://www.hurghada-airport.co.uk/,1977
+HUY,EGNJ,Humberside Airport,Hull,England,"Kirmington, Lincolnshire, England",UTC+00:00,2,1,International,Eastern Group,Eastern Group,https://www.humbersideairport.com/,1974
+HYD,VOHS,Rajiv Gandhi International Airport,Hyderabad,Telangana,"Shamshabad, Hyderabad, India",UTC+05:30,1,1,International,GMR Hyderabad International Airport Ltd.,GMR Group,https://www.hyderabad.aero/,2008
+IAD,KIAD,Washington Dulles International Airport,Washington, D.C.,"Dulles, Virginia, USA",UTC-05:00,4,1,International,Metropolitan Washington Airports Authority,Metropolitan Washington Airports Authority,https://www.flydulles.com/,1962
+IAH,KIAH,George Bush Intercontinental Airport,Houston,Texas,"Houston, Texas, USA",UTC-06:00,5,5,International,Houston Airport System,Houston Airport System,https://www.fly2houston.com/,1969
+IAS,LRIA,Iași International Airport,Iași,Iași County,"Iași, Romania",UTC+02:00,1,1,International,Iași County Council,Iași International Airport,https://www.aeroport.ro/,1926
+IBZ,LEIB,Ibiza Airport,Ibiza,Balearic Islands,"Sant Josep de sa Talaia, Ibiza, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1949
+ICN,RKSI,Incheon International Airport,Seoul,Incheon,"Jung-gu, Incheon, South Korea",UTC+09:00,4,2,International,Incheon International Airport Corporation,Incheon International Airport Corporation,https://www.airport.kr/,2001
+IEV,UKKK,Kyiv Zhuliany International Airport,Kyiv,Kyiv,"Zhuliany, Kyiv, Ukraine",UTC+02:00,1,1,International,Master Avia,Master Avia,https://www.iev.aero/,1924
+IGS,EDAH,Ingolstadt Manching Airport,Ingolstadt,Bavaria,"Manching, Ingolstadt, Germany",UTC+01:00,1,1,International,Airbus Defence and Space,Airbus Defence and Space,,1938
+IKA,OIIE,Imam Khomeini International Airport,Tehran,Tehran Province,"Tehran, Iran",UTC+03:30,2,2,International,Tehran Airport Company,Tehran Airport Company,https://www.ikac.ir/,2004
+ILY,EGPI,Islay Airport,Islay,Scotland,"Glenegedale, Islay, Scotland",UTC+00:00,2,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1940
+INN,LOWI,Innsbruck Airport,Innsbruck,Tyrol,"Innsbruck, Austria",UTC+01:00,1,1,International,Tiroler Flughafenbetriebsgesellschaft,Tiroler Flughafenbetriebsgesellschaft,https://www.innsbruck-airport.com/,1925
+INV,EGPE,Inverness Airport,Inverness,Scotland,"Dalcross, Inverness, Scotland",UTC+00:00,2,1,International,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1947
+IOM,EGNS,Isle of Man Airport,Isle of Man,Isle of Man,"Ronaldsway, Isle of Man",UTC+00:00,1,1,International,Isle of Man Government,Isle of Man Government,https://www.iom-airport.com/,1929
+ISB,OPIS,Islamabad International Airport,Islamabad,Islamabad Capital Territory,"Fateh Jang, Islamabad, Pakistan",UTC+05:00,1,1,International,Pakistan Civil Aviation Authority,Pakistan Civil Aviation Authority,https://www.islamabad-airport.com/,2018
+ISC,EGHE,St Mary's Airport,St Mary's,Isles of Scilly,"St Mary's, Isles of Scilly, England",UTC+00:00,2,1,Domestic,Council of the Isles of Scilly,Council of the Isles of Scilly,https://www.islesofscilly-travel.co.uk/,1937
+IST,LTFM,Istanbul Airport,Istanbul,Istanbul Province,"Arnavutköy, Istanbul, Turkey",UTC+03:00,4,1,International,IGA (Istanbul Grand Airport),IGA,https://www.istairport.com/,2018
+ISU,ORBS,Sulaymaniyah International Airport,Sulaymaniyah,Sulaymaniyah Governorate,"Sulaymaniyah, Iraq",UTC+03:00,1,1,International,Kurdistan Regional Government,Sulaymaniyah International Airport,https://www.sulairport.krd/,2005
+IVL,EFIV,Ivalo Airport,Ivalo,Lapland,"Ivalo, Finland",UTC+02:00,1,1,International,Finavia,Finavia,https://www.finavia.fi/,1943
+JED,OEJN,King Abdulaziz International Airport,Jeddah,Mecca Province,"Jeddah, Saudi Arabia",UTC+03:00,3,3,International,General Authority of Civil Aviation,General Authority of Civil Aviation,https://www.jed-airport.com/,1981
+JER,EGJJ,Jersey Airport,Jersey,Channel Islands,"Saint Peter, Jersey, Channel Islands",UTC+00:00,1,1,International,Ports of Jersey,Ports of Jersey,https://www.jerseyairport.com/,1937
+JFK,KJFK,John F. Kennedy International Airport,New York City,New York,"Queens, New York City, USA",UTC-05:00,4,6,International,Port Authority of New York and New Jersey,Port Authority of New York and New Jersey,https://www.jfkairport.com/,1948
+JKG,ESGJ,Jönköping Airport,Jönköping,Jönköping County,"Jönköping, Sweden",UTC+01:00,1,1,International,Jönköping Airport AB,Jönköping Airport AB,https://www.jonkopingairport.se/,1961
+JMK,LGMK,Mykonos Airport,Mykonos,South Aegean,"Mykonos, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.jmk-airport.gr/,1971
+JNB,FAOR,O. R. Tambo International Airport,Johannesburg,Gauteng,"Kempton Park, Johannesburg, South Africa",UTC+02:00,2,2,International,Airports Company South Africa,Airports Company South Africa,https://www.airports.co.za/,1952
+JSI,LGSK,Skiathos Alexandros Papadiamantis Airport,Skiathos,Thessaly,"Skiathos, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.jsi-airport.gr/,1972
+JTR,LGSR,Santorini (Thira) International Airport,Santorini,South Aegean,"Kamari, Santorini, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.jtr-airport.gr/,1972
+KAO,EFKS,Kuopio Airport,Kuopio,North Savo,"Siilinjärvi, Kuopio, Finland",UTC+02:00,2,1,International,Finavia,Finavia,https://www.finavia.fi/,1939
+KBP,UKBB,Boryspil International Airport,Kyiv,Kyiv Oblast,"Boryspil, Kyiv, Ukraine",UTC+02:00,2,2,International,Ukraine International Airports,Ukraine International Airports,https://www.kbp.aero/,1959
+KEF,BIKF,Keflavík International Airport,Reykjavík,Southern Peninsula,"Keflavík, Reykjavík, Iceland",UTC+00:00,2,1,International,Isavia,Isavia,https://www.isavia.is/,1943
+KGL,HRYR,Kigali International Airport,Kigali,Kigali Province,"Kigali, Rwanda",UTC+02:00,1,1,International,Rwanda Airports Company,Rwanda Airports Company,https://www.rac.gov.rw/,1964
+KGS,LGKO,Kos International Airport,Kos,South Aegean,"Antimachia, Kos, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.kgs-airport.gr/,1964
+KIN,MKJP,Norman Manley International Airport,Kingston,Surrey County,"Palisadoes, Kingston, Jamaica",UTC-05:00,1,1,International,Airports Authority of Jamaica,NMIA Airports Limited,https://www.nmia.aero/,1948
+KIR,EIKY,Kerry Airport,Kerry,County Kerry,"Farranfore, Kerry, Ireland",UTC+00:00,1,1,International,Kerry Airport plc,Kerry Airport plc,https://www.kerryairport.ie/,1969
+KIV,LUKK,Chișinău International Airport,Chișinău,Chișinău,"Chișinău, Moldova",UTC+02:00,1,1,International,Chișinău International Airport,Chișinău International Airport,https://www.airport.md/,1970
+KLU,LOWK,Klagenfurt Airport,Klagenfurt,Carinthia,"Klagenfurt, Austria",UTC+01:00,1,1,International,Kärntner Flughäfen Betriebsgesellschaft,Kärntner Flughäfen Betriebsgesellschaft,https://www.airport-klagenfurt.at/,1914
+KLV,LKKV,Karlovy Vary Airport,Karlovy Vary,Karlovy Vary Region,"Karlovy Vary, Czech Republic",UTC+01:00,1,1,International,Karlovy Vary Airport Ltd.,Karlovy Vary Airport Ltd.,https://www.airport-k-vary.cz/,1962
+KLX,LGKL,Kalamata International Airport,Kalamata,Messenia,"Kalamata, Greece",UTC+02:00,1,1,International,Hellenic Civil Aviation Authority,Hellenic Civil Aviation Authority,https://www.klx-airport.gr/,1959
+KMS,FGKM,Kumasi International Airport,Kumasi,Ashanti Region,"Kumasi, Ghana",UTC+00:00,1,1,International,Ghana Airports Company Limited,Ghana Airports Company Limited,https://www.ghanaairports.com.gh/,1943
+KNF,EGSG,Marham Airport,King's Lynn,Norfolk,"Marham, Norfolk, England",UTC+00:00,2,1,Military,UK Ministry of Defence,UK Ministry of Defence,,1916
+KOI,EGPA,Kirkwall Airport,Kirkwall,Orkney Islands,"Kirkwall, Orkney, Scotland",UTC+00:00,3,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1940
+KRH,EGKR,Redhill Aerodrome,Redhill,England,"Redhill, Surrey, England",UTC+00:00,3,1,Domestic,Redhill Aerodrome Ltd.,Redhill Aerodrome Ltd.,https://www.redhillaerodrome.com/,1934
+KRK,EPKK,Kraków John Paul II International Airport,Kraków,Lesser Poland,"Balice, Kraków, Poland",UTC+01:00,1,2,International,Kraków Airport Ltd.,Kraków Airport Ltd.,https://www.krakowairport.pl/,1964
+KRP,EKKA,Karup Airport,Karup,Central Denmark,"Karup, Denmark",UTC+01:00,1,1,International,Karup Lufthavn A/S,Karup Lufthavn A/S,https://www.karup-airport.dk/,1965
+KRS,ENCN,Kristiansand Airport,Kristiansand,Agder,"Kjevik, Kristiansand, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1939
+KRT,HSSK,Khartoum International Airport,Khartoum,Khartoum State,"Khartoum, Sudan",UTC+02:00,1,2,International,Sudan Airports Company,Sudan Airports Company,https://www.khartoum-airport.com/,1947
+KSC,LZKZ,Košice International Airport,Košice,Košice Region,"Košice, Slovakia",UTC+01:00,1,1,International,Košice International Airport,Košice International Airport,https://www.airportkosice.sk/,1950
+KSF,EDCK,Kassel Airport,Kassel,Hesse,"Calden, Kassel, Germany",UTC+01:00,1,1,International,Flughafen Kassel GmbH,Flughafen Kassel GmbH,https://www.kassel-airport.aero/,1970
+KSU,ENKB,Kristiansund Airport,Kristiansund,Møre og Romsdal,"Kvernberget, Kristiansund, Norway",UTC+01:00,2,1,International,Avinor,Avinor,https://www.avinor.no/,1970
+KTT,EFKT,Kittilä Airport,Kittilä,Lapland,"Kittilä, Finland",UTC+02:00,1,1,International,Finavia,Finavia,https://www.finavia.fi/,1983
+KTW,EPKT,Katowice International Airport,Katowice,Silesian,"Pyrzowice, Katowice, Poland",UTC+01:00,2,3,International,Górnośląskie Towarzystwo Lotnicze,Górnośląskie Towarzystwo Lotnicze,https://www.katowice-airport.com/,1966
+KUL,WMKK,Kuala Lumpur International Airport,Kuala Lumpur,Selangor,"Sepang, Selangor, Malaysia",UTC+08:00,3,2,International,Malaysia Airports Holdings,Malaysia Airports Holdings,https://www.klia.com.my/,1998
+KUN,EYKA,Kaunas Airport,Kaunas,Kaunas County,"Karmėlava, Kaunas, Lithuania",UTC+02:00,1,1,International,Lithuanian Airports,Lithuanian Airports,https://www.kaunas-airport.lt/,1988
+KVA,LGKV,Kavala International Airport,Kavala,East Macedonia and Thrace,"Chrysoupoli, Kavala, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.kva-airport.gr/,1952
+KWI,OKBK,Kuwait International Airport,Kuwait City,Al Farwaniyah,"Farwaniya, Kuwait City, Kuwait",UTC+03:00,2,3,International,Directorate General of Civil Aviation,Directorate General of Civil Aviation,https://www.kuwait-airport.com.kw/,1960
+LAS,KLAS,Harry Reid International Airport,Las Vegas,Nevada,"Paradise, Nevada, USA",UTC-08:00,4,2,International,Clark County,Clark County Department of Aviation,https://www.harryreidairport.com/,1942
+LAX,KLAX,Los Angeles International Airport,Los Angeles,California,"Los Angeles, California, USA",UTC-08:00,9,9,International,Los Angeles World Airports,Los Angeles World Airports,https://www.flylax.com/,1928
+LBA,EGNM,Leeds Bradford Airport,Leeds,England,"Yeadon, West Yorkshire, England",UTC+00:00,1,1,International,Leeds Bradford Airport Ltd.,Leeds Bradford Airport Ltd.,https://www.leedsbradfordairport.co.uk/,1931
+LBC,EDHL,Lübeck Airport,Lübeck,Schleswig-Holstein,"Lübeck, Germany",UTC+01:00,1,1,International,Flughafen Lübeck GmbH,Flughafen Lübeck GmbH,https://www.flughafen-luebeck.de/,1917
+LBG,LFPB,Paris–Le Bourget Airport,Paris,Île-de-France,"Le Bourget, Paris, France",UTC+01:00,3,1,International,Groupe ADP,Groupe ADP,https://www.parisaeroport.fr/,1919
+LCA,LCLK,Larnaca International Airport,Larnaca,Larnaca District,"Larnaca, Cyprus",UTC+02:00,1,1,International,Hermes Airports,Hermes Airports,https://www.hermesairports.com/,1975
+LCG,LECO,A Coruña Airport,A Coruña,Galicia,"Culleredo, A Coruña, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1963
+LCJ,EPLL,Łódź Władysław Reymont Airport,Łódź,Łódź Voivodeship,"Łódź, Poland",UTC+01:00,1,1,International,Port Lotniczy Łódź S.A.,Port Lotniczy Łódź S.A.,https://www.lodz-airport.pl/,1925
+LCY,EGLC,London City Airport,London,England,"Silvertown, Newham, London, England",UTC+00:00,1,1,International,Private consortium,London City Airport Ltd.,https://www.londoncityairport.com/,1987
+LDE,LFBT,Tarbes–Lourdes–Pyrénées Airport,Lourdes,Occitanie,"Ossun, Lourdes, France",UTC+01:00,2,1,International,CCI de Tarbes,CCI de Tarbes,https://www.tlp.aeroport.fr/,1934
+LDY,EGAE,City of Derry Airport,Derry,Northern Ireland,"Eglinton, County Londonderry, Northern Ireland",UTC+00:00,1,1,International,Derry City and Strabane District Council,City of Derry Airport Operations,https://www.cityofderryairport.com/,1978
+LEI,LEAM,Almería Airport,Almería,Andalusia,"Almería, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1968
+LEJ,EDDP,Leipzig/Halle Airport,Leipzig,Saxony,"Schkeuditz, Leipzig, Germany",UTC+01:00,2,2,International,Mitteldeutsche Flughafen AG,Mitteldeutsche Flughafen AG,https://www.leipzig-halle-airport.de/,1927
+LEN,LELN,León Airport,León,Castile and León,"La Virgen del Camino, León, Spain",UTC+01:00,2,1,International,AENA,AENA,https://www.aena.es/,1999
+LEQ,EGMD,Land's End Airport,St Just,Cornwall,"St Just, Cornwall, England",UTC+00:00,4,1,Domestic,Council of the Isles of Scilly,Land's End Airport Ltd.,https://www.landsendairport.co.uk/,1937
+LGG,EBLG,Liège Airport,Liège,Wallonia,"Grâce-Hollogne, Liège, Belgium",UTC+01:00,2,1,International,Liège Airport S.A.,Liège Airport S.A.,https://www.liegeairport.com/,1930
+LGW,EGKK,London Gatwick Airport,London,England,"Crawley, West Sussex, England",UTC+00:00,2,2,International,Gatwick Airport Limited,VINCI Airports,https://www.gatwickairport.com/,1933
+LHE,OPLA,Allama Iqbal International Airport,Lahore,Punjab,"Lahore, Pakistan",UTC+05:00,1,2,International,Pakistan Civil Aviation Authority,Pakistan Civil Aviation Authority,https://www.lahore-airport.com/,1962
+LHR,EGLL,London Heathrow Airport,London,England,"Hillingdon, London, England",UTC+00:00,2,4,International,Heathrow Airport Holdings,Heathrow Airport Holdings,https://www.heathrow.com/,1946
+LIG,LFBL,Limoges–Bellegarde Airport,Limoges,Nouvelle-Aquitaine,"Limoges, France",UTC+01:00,1,1,International,CCI de Limoges,CCI de Limoges,https://www.aeroportlimoges.com/,1970
+LIL,LFLS,Lille Airport,Lille,Hauts-de-France,"Lesquin, Lille, France",UTC+01:00,1,1,International,Société de Gestion de l'Aéroport de Lille,Société de Gestion de l'Aéroport de Lille,https://www.lille.aeroport.fr/,1936
+LIM,SPJC,Jorge Chávez International Airport,Lima,Lima,"Callao, Lima, Peru",UTC-05:00,2,1,International,Lima Airport Partners,Lima Airport Partners,https://www.lima-airport.com/,1960
+LIN,LIMC,Milan Linate Airport,Milan,Lombardy,"Segrate, Milan, Italy",UTC+01:00,1,1,International,SEA – Aeroporti di Milano,SEA – Aeroporti di Milano,https://www.milanolinate-airport.com/,1937
+LIR,MRLB,Daniel Oduber Quirós International Airport,Liberia,Guanacaste,"Liberia, Guanacaste, Costa Rica",UTC-06:00,1,1,International,General Directorate of Civil Aviation,CORIPORT,https://www.liberiacostaricaairport.com/,1977
+LIS,LPPT,Humberto Delgado Airport,Lisbon,Lisbon,"Lisbon, Portugal",UTC+00:00,2,2,International,ANA Aeroportos de Portugal,ANA Aeroportos de Portugal,https://www.aeroportolisboa.pt/,1942
+LJU,LJLJ,Ljubljana Jože Pučnik Airport,Ljubljana,Upper Carniola,"Brnik, Ljubljana, Slovenia",UTC+01:00,1,1,International,Fraport Slovenija,Fraport Slovenija,https://www.lju-airport.si/,1963
+LLA,ESPA,Luleå Airport,Luleå,Norrbotten,"Luleå, Sweden",UTC+01:00,1,1,International,Swedavia,Swedavia,https://www.swedavia.com/,1944
+LLW,FQTT,Lilongwe International Airport,Lilongwe,Central Region,"Lilongwe, Malawi",UTC+02:00,1,1,International,Malawi Airports Company,Malawi Airports Company,https://www.malawiairports.com/,1961
+LNZ,LOWL,Linz Airport,Linz,Upper Austria,"Hörsching, Linz, Austria",UTC+01:00,2,1,International,Flughafen Linz GesmbH,Flughafen Linz GesmbH,https://www.linz-airport.com/,1955
+LOS,DNMM,Murtala Muhammed International Airport,Lagos,Lagos State,"Ikeja, Lagos, Nigeria",UTC+01:00,2,2,International,Federal Airports Authority of Nigeria,Federal Airports Authority of Nigeria,https://www.faannigeria.org/,1979
+LPA,GCLP,Gran Canaria Airport,Las Palmas,Canary Islands,"Telde, Gran Canaria, Spain",UTC+00:00,1,1,International,AENA,AENA,https://www.aena.es/,1930
+LPL,EGGP,Liverpool John Lennon Airport,Liverpool,England,"Speke, Liverpool, England",UTC+00:00,1,1,International,Liverpool Airport Ltd.,Liverpool Airport Ltd.,https://www.liverpoolairport.com/,1933
+LRH,LFRH,Lorient South Brittany Airport,Lorient,Brittany,"Ploemeur, Lorient, France",UTC+01:00,2,1,International,CCI de Lorient,CCI de Lorient,https://www.lorient.aeroport.fr/,1951
+LRM,MDLR,Casa de Campo International Airport,La Romana,La Romana Province,"La Romana, Dominican Republic",UTC-04_reports,1,1,International,Private ownership,Private ownership,https://www.casa-de-campo.com.do/,2000
+LSI,EGPB,Sumburgh Airport,Lerwick,Shetland Islands,"Sumburgh, Shetland, Scotland",UTC+00:00,2,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1937
+LSMP,LSMP,Payerne Air Base,Payerne,Vaud,"Payerne, Switzerland",UTC+01:00,2,1,Military,Swiss Air Force,Swiss Air Force,,1921
+LTN,EGGW,London Luton Airport,London,England,"Luton, Bedfordshire, England",UTC+00:00,1,2,International,Luton Borough Council,LLA Operations Ltd.,https://www.london-luton.co.uk/,1938
+LTQ,LFRG,Le Touquet–Côte d'Opale Airport,Le Touquet,Hauts-de-France,"Le Touquet-Paris-Plage, France",UTC+01:00,2,1,International,Société d'Exploitation de l'Aéroport du Touquet,Société d'Exploitation de l'Aéroport du Touquet,https://www.aeroport-letouquet.com/,1936
+LUX,ELLX,Luxembourg Airport,Luxembourg,Luxembourg,"Findel, Luxembourg",UTC+01:00,1,2,International,Luxair,Luxair,https://www.lux-airport.lu/,1937
+LUZ,EPLB,Lublin Airport,Lublin,Lublin Voivodeship,"Świdnik, Lublin, Poland",UTC+01:00,1,1,International,Lublin Airport S.A.,Lublin Airport S.A.,https://www.airport.lublin.pl/,2012
+LWO,UKLL,Lviv Danylo Halytskyi International Airport,Lviv,Lviv Oblast,"Lviv, Ukraine",UTC+02:00,1,2,International,Lviv International Airport,Lviv International Airport,https://www.lwo.aero/,1929
+LXR,HELX,Luxor International Airport,Luxor,Luxor Governorate,"Luxor, Egypt",UTC+02:00,1,1,International,Egyptian Holding Company for Airports,Egyptian Holding Company for Airports,https://www.luxor-airport.com/,1950
+LXS,LGLM,Lemnos International Airport,Lemnos,North Aegean,"Myrina, Lemnos, Greece",UTC+02:00,1,1,International,Hellenic Civil Aviation Authority,Hellenic Civil Aviation Authority,https://www.lxs-airport.gr/,1958
+LYR,ENSB,Svalbard Airport, Longyear,Longyearbyen,"Longyearbyen, Svalbard, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1975
+LYS,LFLL,Lyon–Saint-Exupéry Airport,Lyon,Auvergne-Rhône-Alpes,"Colombier-Saugnieu, Lyon, France",UTC+01:00,2,3,International,VINCI Airports,VINCI Airports,https://www.lyonaeroports.com/,1975
+MAA,VOMM,Chennai International Airport,Chennai,Tamil Nadu,"Tirusulam, Chennai, India",UTC+05:30,2,4,International,Airports Authority of India,Airports Authority of India,https://www.aai.aero/,1910
+MAD,LEMD,Adolfo Suárez Madrid–Barajas Airport,Madrid,Madrid,"Barajas, Madrid, Spain",UTC+01:00,4,4,International,AENA,AENA,https://www.aena.es/,1931
+MAH,LEMG,Menorca Airport,Mahón,Balearic Islands,"Mahón, Menorca, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1969
+MAN,EGCC,Manchester Airport,Manchester,England,"Ringway, Manchester, England",UTC+00:00,2,3,International,Manchester Airports Group,Manchester Airports Group,https://www.manchesterairport.co.uk/,1938
+MBJ,MKJS,Sangster International Airport,Montego Bay,Saint James Parish,"Montego Bay, Jamaica",UTC-05:00,1,1,International,MBJ Airports Limited,MBJ Airports Limited,https://www.mbjairport.com/,1947
+MCI,KMCI,Kansas City International Airport,Kansas City,Missouri,"Kansas City, Missouri, USA",UTC-06:00,3,2,International,Kansas City Aviation Department,Kansas City Aviation Department,https://www.flykci.com/,1972
+MCO,KMCO,Orlando International Airport,Orlando,Florida,"Orlando, Florida, USA",UTC-05:00,4,2,International,Greater Orlando Aviation Authority,Greater Orlando Aviation Authority,https://www.orlandoairports.net/,1961
+MCT,OOMS,Muscat International Airport,Muscat,Muscat Governorate,"Seeb, Muscat, Oman",UTC+04:00,2,2,International,Oman Airports Management Company,Oman Airports Management Company,https://www.mct-airport.com/,1973
+MEL,YMML,Melbourne Airport,Melbourne,Victoria,"Tullamarine, Melbourne, Australia",UTC+10:00,4,4,International,Australia Pacific Airports Corporation,Australia Pacific Airports Corporation,https://www.melbourneairport.com.au/,1970
+MEX,MMMX,Mexico City International Airport,Mexico City,Mexico City,"Venustiano Carranza, Mexico City, Mexico",UTC-06:00,2,2,International,Grupo Aeroportuario de la Ciudad de México,Grupo Aeroportuario de la Ciudad de México,https://www.aicm.com.mx/,1931
+MGL,EDLN,Mönchengladbach Airport,Mönchengladbach,North Rhine-Westphalia,"Mönchengladbach, Germany",UTC+01:00,1,1,International,Flughafen Mönchengladbach GmbH,Flughafen Mönchengladbach GmbH,https://www.mgl.de/,1955
+MIA,KMIA,Miami International Airport,Miami,Florida,"Miami-Dade County, Florida, USA",UTC-05:00,3,3,International,Miami-Dade County,Miami-Dade Aviation Department,https://www.miami-airport.com/,1928
+MJT,LGMT,Mytilene International Airport,Mytilene,Lesbos,"Mytilene, Lesbos, Greece",UTC+02:00,1,1,International,Hellenic Civil Aviation Authority,Hellenic Civil Aviation Authority,https://www.mjt-airport.gr/,1948
+MJV,LELC,Región de Murcia International Airport,Murcia,Murcia,"Corvera, Murcia, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,2019
+MLA,LMML,Malta International Airport,Valletta,Luqa,"Luqa, Malta",UTC+01:00,1,1,International,Malta International Airport plc,Malta International Airport plc,https://www.maltairport.com/,1954
+MLB,KMLB,Melbourne Orlando International Airport,Melbourne,Florida,"Melbourne, Florida, USA",UTC-05:00,3,1,International,Melbourne Airport Authority,Melbourne Airport Authority,https://www.mlbair.com/,1926
+MLE,VRMM,Velana International Airport,Malé,Malé,"Hulhulé, Malé, Maldives",UTC+05:00,1,3,International,Maldives Airports Company,Maldives Airports Company,https://www.macls.aero/,1966
+MLH,LFSB,EuroAirport Basel Mulhouse Freiburg,Freiburg,Baden-Württemberg,"Saint-Louis, France",UTC+01:00,1,1,International,EuroAirport Basel Mulhouse Freiburg,EuroAirport Basel Mulhouse Freiburg,https://www.euroairport.com/,1946
+MLI,KMLI,Quad City International Airport,Moline,Illinois,"Moline, Illinois, USA",UTC-06:00,3,1,International,Metropolitan Airport Authority,Metropolitan Airport Authority,https://www.qcairport.com/,1932
+MME,EGNV,Durham Tees Valley Airport,Darlington,England,"Middleton St George, Darlington, England",UTC+00:00,1,1,International,Peel Airports,Peel Airports,https://www.teessideinternational.com/,1964
+MMX,ESMS,Malmö Airport,Malmö,Skåne,"Svedala, Malmö, Sweden",UTC+01:00,2,1,International,Swedavia,Swedavia,https://www.swedavia.com/,1972
+MNL,RPLL,Ninoy Aquino International Airport,Manila,Metro Manila,"Pasay, Manila, Philippines",UTC+08:00,3,4,International,Manila International Airport Authority,Manila International Airport Authority,https://www.miaa.gov.ph/,1948
+MOL,ENML,Molde Airport,Molde,Møre og Romsdal,"Årø, Molde, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1972
+MOT,KMOT,Minot International Airport,Minot,North Dakota,"Minot, North Dakota, USA",UTC-06:00,2,1,International,City of Minot,Minot Airport Authority,https://www.airport.motnd.org/,1930
+MPL,LFMT,Montpellier–Méditerranée Airport,Montpellier,Occitanie,"Mauguio, Montpellier, France",UTC+01:00,2,1,International,CCI de Montpellier,CCI de Montpellier,https://www.montpellier.aeroport.fr/,1946
+MRS,LFML,Marseille Provence Airport,Marseille,Provence-Alpes-Côte d'Azur,"Marignane, Marseille, France",UTC+01:00,2,2,International,CCI de Marseille Provence,CCI de Marseille Provence,https://www.marseille.aeroport.fr/,1922
+MRU,FIMP,Sir Seewoosagur Ramgoolam International Airport,Port Louis,Plaine Magnien,"Plaine Magnien, Mauritius",UTC+04:00,1,1,International,Airports of Mauritius Co. Ltd.,Airports of Mauritius Co. Ltd.,https://www.mauritius-airport.mu/,1942
+MSP,KMSP,Minneapolis–Saint Paul International Airport,Minneapolis,Minnesota,"Fort Snelling, Minnesota, USA",UTC-06:00,4,2,International,Metropolitan Airports Commission,Metropolitan Airports Commission,https://www.mspairport.com/,1920
+MST,EHBK,Maastricht Aachen Airport,Maastricht,Limburg,"Beek, Maastricht, Netherlands",UTC+01:00,1,1,International,Maastricht Aachen Airport NV,Maastricht Aachen Airport NV,https://www.maa.nl/,1945
+MSY,KMSY,Louis Armstrong New Orleans International Airport,New Orleans,Louisiana,"Kenner, Louisiana, USA",UTC-06:00,3,1,International,New Orleans Aviation Board,New Orleans Aviation Board,https://www.flymsy.com/,1946
+MUC,EDDM,Munich Airport,Munich,Bavaria,"Freising, Munich, Germany",UTC+01:00,2,2,International,Flughafen München GmbH,Flughafen München GmbH,https://www.munich-airport.de/,1992
+MXP,LIMC,Milan Malpensa Airport,Milan,Lombardy,"Ferno, Milan, Italy",UTC+01:00,2,2,International,SEA – Aeroporti di Milano,SEA – Aeroporti di Milano,https://www.milanomalpensa-airport.com/,1958
+NAP,LIRN,Naples International Airport,Naples,Campania,"Naples, Italy",UTC+01:00,1,1,International,GE.S.A.C. S.p.A.,GE.S.A.C. S.p.A.,https://www.aeroportodinapoli.it/,1950
+NAS,MYNN,Lynden Pindling International Airport,Nassau,New Providence,"Nassau, Bahamas",UTC-05:00,2,3,International,Nassau Airport Development Company,Nassau Airport Development Company,https://www.nassaulpia.com/,1957
+NAV,LTAZ,Nevşehir Kapadokya Airport,Nevşehir,Nevşehir Province,"Tuzköy, Nevşehir, Turkey",UTC+03:00,1,1,International,DHMI,DHMI,https://www.dhmi.gov.tr/,1998
+NBE,DTNZ,Enfidha–Hammamet International Airport,Enfidha,Sousse Governorate,"Enfidha, Tunisia",UTC+01:00,1,1,International,TAV Airports,TAV Airports,https://www.enfidhahammametairport.com/,2009
+NBO,HKJK,Jomo Kenyatta International Airport,Nairobi,Nairobi County,"Nairobi, Kenya",UTC+03:00,2,3,International,Kenya Airports Authority,Kenya Airports Authority,https://www.kaa.go.ke/,1958
+NCE,LFMN,Nice Côte d'Azur Airport,Nice,Provence-Alpes-Côte d'Azur,"Nice, France",UTC+01:00,2,2,International,Aéroports de la Côte d'Azur,Aéroports de la Côte d'Azur,https://www.nice.aeroport.fr/,1929
+NCL,EGNT,Newcastle International Airport,Newcastle upon Tyne,England,"Woolsington, Newcastle upon Tyne, England",UTC+00:00,1,1,International,Newcastle Airport Ltd.,Newcastle Airport Ltd.,https://www.newcastleairport.com/,1935
+NDJ,FTTJ,N'Djamena International Airport,N'Djamena,N'Djamena,"N'Djamena, Chad",UTC+01:00,2,1,International,Agence pour la Sécurité de la Navigation Aérienne,Agence pour la Sécurité de la Navigation Aérienne,https://www.ndj-airport.com/,1960
+NGO,RJGG,Chubu Centrair International Airport,Nagoya,Aichi,"Tokoname, Aichi, Japan",UTC+09:00,2,2,International,Central Japan International Airport Co.,Central Japan International Airport Co.,https://www.centrair.jp/,2005
+NHT,EGWU,RAF Northolt,London,England,"Ruislip, Hillingdon, London, England",UTC+00:00,1,1,Military,UK Ministry of Defence,UK Ministry of Defence,https://www.raf.mod.uk/,1915
+NKG,ZSNJ,Nanjing Lukou International Airport,Nanjing,Jiangsu,"Lukou, Nanjing, China",UTC+08:00,2,2,International,Nanjing Lukou International Airport Co.,Nanjing Lukou International Airport Co.,https://www.nanjing-airport.com/,1997
+NOC,EINN,Shannon Airport,Shannon,County Clare,"Shannon, County Clare, Ireland",UTC+00:00,1,1,International,Shannon Airport Authority,Shannon Airport Authority,https://www.shannonairport.ie/,1942
+NQY,EGHQ,Cornwall Airport Newquay,Newquay,Cornwall,"St Mawgan, Newquay, England",UTC+00:00,1,1,International,Cornwall Airport Ltd.,Cornwall Airport Ltd.,https://www.cornwallairportnewquay.com/,1939
+NQZ,UACC,Nursultan Nazarbayev International Airport,Nur-Sultan,Akmola Region,"Nur-Sultan, Kazakhstan",UTC+05:00,2,2,International,Nursultan Nazarbayev International Airport JSC,Nursultan Nazarbayev International Airport JSC,https://www.nn-airport.kz/,1931
+NRN,EDLV,Weeze Airport,Weeze,North Rhine-Westphalia,"Weeze, Germany",UTC+01:00,1,1,International,Flughafen Niederrhein GmbH,Flughafen Niederrhein GmbH,https://www.airport-weeze.com/,2003
+NTE,LFGG,Nantes Atlantique Airport,Nantes,Pays de la Loire,"Bouguenais, Nantes, France",UTC+01:00,1,2,International,VINCI Airports,VINCI Airports,https://www.nantes.aeroport.fr/,1928
+NUE,EDDN,Nuremberg Airport,Nuremberg,Bavaria,"Nuremberg, Germany",UTC+01:00,1,1,International,Flughafen Nürnberg GmbH,Flughafen Nürnberg GmbH,https://www.airport-nuernberg.de/,1955
+NUM,HLGN,Nejjo Airport,Nejjo,Oromia,"Nejjo, Ethiopia",UTC+03:00,1,1,Domestic,Ethiopian Airports Enterprise,Ethiopian Airports Enterprise,,1970
+NWI,EGSH,Norwich International Airport,Norwich,England,"Hellesdon, Norwich, England",UTC+00:00,1,1,International,Regional & City Airports,Regional & City Airports,https://www.norwichairport.co.uk/,1940
+OAK,KOAK,Oakland International Airport,Oakland,California,"Oakland, California, USA",UTC-08:00,4,2,International,Port of Oakland,Port of Oakland,https://www.oaklandairport.com/,1927
+ODE,EKOD,Odense Airport,Odense,South Denmark,"Beldringe, Odense, Denmark",UTC+01:00,2,1,Domestic,Odense Lufthavn A/S,Odense Lufthavn A/S,https://www.odense-lufthavn.dk/,1943
+OHD,LKOH,Ohrid St. Paul the Apostle Airport,Ohrid,Ohrid Municipality,"Ohrid, North Macedonia",UTC+01:00,1,1,International,TAV Airports,TAV Airports,https://www.ohd.airports.mk/,1952
+OLB,LIEO,Olbia Costa Smeralda Airport,Olbia,Sardinia,"Olbia, Italy",UTC+01:00,1,1,International,Geasar S.p.A.,Geasar S.p.A.,https://www.geasar.it/,1974
+OMO,LQMO,Mostar International Airport,Mostar,Herzegovina-Neretva Canton,"Ortiješ, Mostar, Bosnia and Herzegovina",UTC+01:00,1,1,International,Mostar Airport Authority,Mostar Airport Authority,https://www.mostar-airport.ba/,1965
+OMR,LROD,Oradea International Airport,Oradea,Bihor County,"Oradea, Romania",UTC+02:00,1,1,International,Oradea International Airport,Oradea International Airport,https://www.aeroportoradea.ro/,1938
+OPO,LPPR,Francisco Sá Carneiro Airport,Porto,Porto,"Maia, Porto, Portugal",UTC+00:00,1,1,International,ANA Aeroportos de Portugal,ANA Aeroportos de Portugal,https://www.aeroportoporto.pt/,1945
+ORB,ESOE,Örebro Airport,Örebro,Örebro County,"Örebro, Sweden",UTC+01:00,1,1,International,Örebro Läns Flygplats AB,Örebro Läns Flygplats AB,https://www.orebroairport.se/,1979
+ORD,KORD,Chicago O'Hare International Airport,Chicago,Illinois,"Chicago, Illinois, USA",UTC-06:00,7,4,International,City of Chicago,Chicago Department of Aviation,https://www.flychicago.com/,1944
+ORK,EICK,Cork Airport,Cork,County Cork,"Cork, Ireland",UTC+00:00,1,1,International,daa,daa,https://www.corkairport.com/,1961
+ORY,LFPO,Paris Orly Airport,Paris,Île-de-France,"Orly, Paris, France",UTC+01:00,4,4,International,Groupe ADP,Groupe ADP,https://www.parisaeroport.fr/,1932
+OSI,LDOS,Osijek Airport,Osijek,Osijek-Baranja County,"Klisa, Osijek, Croatia",UTC+01:00,1,1,International,Osijek Airport Ltd.,Osijek Airport Ltd.,https://www.osijek-airport.hr/,1970
+OSL,ENGM,Oslo Airport, Gardermoen,Oslo,"Gardermoen, Ullensaker, Norway",UTC+01:00,2,1,International,Avinor,Avinor,https://www.avinor.no/,1998
+OSR,LKMT,Ostrava Leoš Janáček Airport,Ostrava,Moravian-Silesian,"Mošnov, Ostrava, Czech Republic",UTC+01:00,1,1,International,Ostrava Airport a.s.,Ostrava Airport a.s.,https://www.airport-ostrava.cz/,1959
+OST,EBAH,Ostend–Bruges International Airport,Ostend,West Flanders,"Ostend, Belgium",UTC+01:00,1,1,International,EGIS,EGIS,https://www.ostendbruges-airport.com/,1914
+OTP,LROP,Henri Coandă International Airport,Bucharest,Ilfov County,"Otopeni, Bucharest, Romania",UTC+02:00,2,2,International,Compania Națională Aeroporturi București,Compania Națională Aeroporturi București,https://www.bucharestairports.ro/,1968
+OVD,LEAS,Asturias Airport,Oviedo,Asturias,"Castrillón, Asturias, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1968
+OXF,EGTK,Oxford Airport,Oxford,England,"Kidlington, Oxfordshire, England",UTC+00:00,3,1,International,Oxford Aviation Services,Oxford Aviation Services,https://www.oxfordairport.co.uk/,1935
+OZZ,GMMZ,Ouarzazate Airport,Ouarzazate,Drâa-Tafilalet,"Ouarzazate, Morocco",UTC+01:00,1,1,International,ONDA (National Airports Authority),ONDA,https://www.onda.ma/,1958
+PAD,EDLP,Paderborn Lippstadt Airport,Paderborn,North Rhine-Westphalia,"Büren;#39;s Aerodrome, Paderborn, Germany",UTC+01:00,1,1,International,Flughafen Paderborn/Lippstadt GmbH,Flughafen Paderborn/Lippstadt GmbH,https://www.airport-pad.com/,1971
+PBI,KPBI,Palm Beach International Airport,West Palm Beach,Florida,"West Palm Beach, Florida, USA",UTC-05:00,3,3,International,Palm Beach County,Palm Beach County Department of Airports,https://www.pbia.org/,1936
+PBM,SMJP,Johan Adolf Pengel International Airport,Paramaribo,Paramaribo District,"Zanderij, Paramaribo, Suriname",UTC-03:00,1,1,International,Airport Management Ltd.,Airport Management Ltd.,https://www.jap-airport.sr/,1943
+PDL,LPPD,João Paulo II Airport,Ponta Delgada,Azores,"Ponta Delgada, São Miguel, Azores, Portugal",UTC-01:00,1,1,International,ANA Aeroportos de Portugal,ANA Aeroportos de Portugal,https://www.aeroportopontadelgada.pt/,1969
+PDV,LBPD,Plovdiv Airport,Plovdiv,Plovdiv Province,"Krumovo, Plovdiv, Bulgaria",UTC+02:00,1,1,International,Plovdiv Airport Ltd.,Plovdiv Airport Ltd.,https://www.plovdivairport.com/,1981
+PDX,KPDX,Portland International Airport,Portland,Oregon,"Portland, Oregon, USA",UTC-08:00,2,1,International,Port of Portland,Port of Portland,https://www.flypdx.com/,1940
+PED,LKPD,Pardubice Airport,Pardubice,Pardubice Region,"Pardubice, Czech Republic",UTC+01:00,1,1,International,East Bohemian Airports a.s.,East Bohemian Airports a.s.,https://www.airport-pardubice.cz/,1950
+PEG,LIRZ,Perugia San Francesco d'Assisi Airport,Perugia,Umbria,"Perugia, Italy",UTC+01:00,1,1,International,ENAC,ENAC,https://www.airport.umbria.it/,1970
+PEK,ZBAA,Beijing Capital International Airport,Beijing,Beijing,"Chaoyang, Beijing, China",UTC+08:00,3,3,International,Beijing Capital International Airport Co.,Beijing Capital International Airport Co.,https://www.bcia.com.cn/,1958
+PER,YPPH,Perth Airport,Perth,Western Australia,"Perth Airport, Western Australia, Australia",UTC+08:00,3,4,International,Perth Airport Pty Ltd.,Perth Airport Pty Ltd.,https://www.perthairport.com.au/,1944
+PFO,LCPH,Paphos International Airport,Paphos,Paphos District,"Paphos, Cyprus",UTC+02:00,1,1,International,Hermes Airports,Hermes Airports,https://www.hermesairports.com/,1983
+PGF,LFMP,Perpignan–Rivesaltes Airport,Perpignan,Occitanie,"Perpignan, France",UTC+01:00,1,1,International,CCI de Perpignan,CCI de Perpignan,https://www.aeroport-perpignan.com/,1924
+PHL,KPHL,Philadelphia International Airport,Philadelphia,Pennsylvania,"Philadelphia, Pennsylvania, USA",UTC-05:00,4,7,International,City of Philadelphia,Philadelphia Division of Aviation,https://www.phl.org/,1940
+PHX,KPHX,Phoenix Sky Harbor International Airport,Phoenix,Arizona,"Phoenix, Arizona, USA",UTC-07:00,3,2,International,City of Phoenix,Phoenix Aviation Department,https://www.skyharbor.com/,1935
+PIK,EGPK,Glasgow Prestwick Airport,Glasgow,Scotland,"Prestwick, South Ayrshire, Scotland",UTC+00:00,2,1,International,Scottish Government,Prestwick Airport Ltd.,https://www.glasgowprestwick.com/,1934
+PIS,LFBI,Poitiers–Biard Airport,Poitiers,Nouvelle-Aquitaine,"Biard, Poitiers, France",UTC+01:00,1,1,International,CCI de la Vienne,CCI de la Vienne,https://www.poitiers.aeroport.fr/,1938
+PIT,KPIT,Pittsburgh International Airport,Pittsburgh,Pennsylvania,"Moon Township, Pennsylvania, USA",UTC-05:00,4,2,International,Allegheny County Airport Authority,Allegheny County Airport Authority,https://www.flypittsburgh.com/,1952
+PJA,ESSP,Kallax Airport,Luleå,Norrbotten,"Luleå, Sweden",UTC+01:00,1,1,International,Swedavia,Swedavia,https://www.swedavia.com/,1944
+PKX,ZBAD,Beijing Daxing International Airport,Beijing,Beijing,"Daxing, Beijing, China",UTC+08:00,4,1,International,Beijing Daxing International Airport Co.,Beijing Daxing International Airport Co.,https://www.daxing-pkx-airport.com/,2019
+PLQ,EYPA,Palanga International Airport,Palanga,Klaipėda County,"Palanga, Lithuania",UTC+02:00,1,1,International,Lithuanian Airports,Lithuanian Airports,https://www.palanga-airport.lt/,1937
+PLS,MBPV,Providenciales International Airport,Providenciales,Turks and Caicos,"Providenciales, Turks and Caicos Islands",UTC-05:00,1,1,International,Turks and Caicos Airports Authority,Turks and Caicos Airports Authority,https://www.provoairport.com/,1970
+PMF,LIPU,Parma Airport,Parma,Emilia-Romagna,"Parma, Italy",UTC+01:00,1,1,International,SO.GE.A.P. S.p.A.,SO.GE.A.P. S.p.A.,https://www.parma-airport.it/,1991
+PMI,LEPA,Palma de Mallorca Airport,Palma,Balearic Islands,"Palma, Mallorca, Spain",UTC+01:00,2,4,International,AENA,AENA,https://www.aena.es/,1960
+PMO,LICJ,Falcone Borsellino Airport,Palermo,Sicily,"Punta Raisi, Palermo, Italy",UTC+01:00,1,1,International,GESAP S.p.A.,GESAP S.p.A.,https://www.aeroportodipalermo.it/,1960
+PNA,LEPP,Pamplona Airport,Pamplona,Navarre,"Noáin, Pamplona, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1972
+POS,TTPP,Piarco International Airport,Port of Spain,Tunapuna-Piarco,"Piarco, Trinidad and Tobago",UTC-04:00,1,1,International,Airports Authority of Trinidad and Tobago,Airports Authority of Trinidad and Tobago,https://www.tntairports.com/,1931
+POZ,EPPO,Poznań–Ławica Airport,Poznań,Greater Poland,"Ławica, Poznań, Poland",UTC+01:00,1,1,International,Poznań–Ławica Airport Ltd.,Poznań–Ławica Airport Ltd.,https://www.poznanairport.pl/,1919
+PRG,LKPR,Václav Havel Airport Prague,Prague,Prague,"Ruzyně, Prague, Czech Republic",UTC+01:00,3,2,International,Letiště Praha,Letiště Praha,https://www.prg.aero/,1937
+PRN,LKPR,Pristina International Airport,Pristina,Pristina,"Slatina, Pristina, Kosovo",UTC+01:00,1,1,International,Limak Kosovo,Limak Kosovo,https://www.airportpristina.com/,1965
+PSA,LIRP,Pisa International Airport,Pisa,Tuscany,"Pisa, Italy",UTC+01:00,1,1,International,Toscana Aeroporti,Toscana Aeroporti,https://www.pisa-airport.com/,1916
+PSM,KPSM,Portsmouth International Airport at Pease,Portsmouth,New Hampshire,"Portsmouth, New Hampshire, USA",UTC-05:00,1,1,International,Pease Development Authority,Pease Development Authority,https://www.flyportsmouthnh.com/,1953
+PSR,LISP,Abruzzo Airport,Pescara,Abruzzo,"Pescara, Italy",UTC+01:00,1,1,International,SAGA S.p.A.,SAGA S.p.A.,https://www.abruzzoairport.com/,1927
+PUF,LFBP,Pau Pyrénées Airport,Pau,Nouvelle-Aquitaine,"Uzein, Pau, France",UTC+01:00,2,1,International,CCI de Pau Béarn,CCI de Pau Béarn,https://www.pau.aeroport.fr/,1930
+PUJ,MDPC,Punta Cana International Airport,Punta Cana,La Altagracia,"Punta Cana, Dominican Republic",UTC-04:00,2,2,International,Grupo Punta Cana,Grupo Punta Cana,https://www.puntacanainternationalairport.com/,1984
+PUY,LDDU,Pula Airport,Pula,Istria,"Pula, Croatia",UTC+01:00,1,1,International,Pula Airport Ltd.,Pula Airport Ltd.,https://www.airport-pula.hr/,1967
+PVD,KPVD,T. F. Green Airport,Providence,Rhode Island,"Warwick, Rhode Island, USA",UTC-05:00,2,1,International,Rhode Island Airport Corporation,Rhode Island Airport Corporation,https://www.pvdairport.com/,1931
+PVG,ZSPD,Shanghai Pudong International Airport,Shanghai,Shanghai,"Pudong, Shanghai, China",UTC+08:00,4,2,International,Shanghai Airport Authority,Shanghai Airport Authority,https://www.shairport.com/,1999
+PVK,LGPZ,Aktion National Airport,Preveza,Epirus,"Aktion, Preveza, Greece",UTC+02:00,1,1,International,Hellenic Civil Aviation Authority,Hellenic Civil Aviation Authority,https://www.pvk-airport.gr/,1968
+PVR,MMVR,Licenciado Gustavo Díaz Ordaz International Airport,Puerto Vallarta,Jalisco,"Puerto Vallarta, Jalisco, Mexico",UTC-06:00,1,2,International,Grupo Aeroportuario del Pacífico,Grupo Aeroportuario del Pacífico,https://www.aeropuertosgap.com.mx/,1970
+PXO,LPPX,Porto Santo Airport,Porto Santo,Madeira,"Porto Santo, Madeira, Portugal",UTC+00:00,1,1,International,ANA Aeroportos de Portugal,ANA Aeroportos de Portugal,https://www.aeroportoportosanto.pt/,1960
+PZU,SDPN,Port Sudan New International Airport,Port Sudan,Red Sea State,"Port Sudan, Sudan",UTC+02:00,1,1,International,Sudan Airports Company,Sudan Airports Company,https://www.portsudan-airport.com/,1992
+QLA,EGHL,Lasham Airfield,Lasham,England,"Lasham, Hampshire, England",UTC+00:00,2,1,Domestic,Lasham Gliding Society,Lasham Gliding Society,https://www.lashamgliding.com/,1942
+QSR,LIPS,Salerno Costa d'Amalfi Airport,Salerno,Campania,"Pontecagnano, Salerno, Italy",UTC+01:00,1,1,International,Aeroporto di Salerno S.p.A.,Aeroporto di Salerno S.p.A.,https://www.aeroportosalerno.it/,2007
+RAI,GVNP,Praia International Airport,Praia,Santiago,"Praia, Cape Verde",UTC-01:00,1,1,International,ASA (Aeroportos e Segurança Aérea),ASA,https://www.asa.cv/,1961
+RAK,GMMX,Marrakesh Menara Airport,Marrakesh,Marrakesh-Safi,"Marrakesh, Morocco",UTC+01:00,1,2,International,ONDA (National Airports Authority),ONDA,https://www.onda.ma/,1950
+RBA,GMMR,Sale Airport,Rabat,Rabat-Salé-Kénitra,"Rabat, Morocco",UTC+01:00,1,1,International,ONDA (National Airports Authority),ONDA,https://www.onda.ma/,1920
+RDU,KRDU,Raleigh-Durham International Airport,Raleigh,North Carolina,"Morrisville, North Carolina, USA",UTC-05:00,3,2,International,Raleigh-Durham Airport Authority,Raleigh-Durham Airport Authority,https://www.rdu.com/,1943
+RDZ,LFMV,Rodez–Aveyron Airport,Rodez,Occitanie,"Marcillac, Rodez, France",UTC+01:00,1,1,International,CCI de Rodez,CCI de Rodez,https://www.aeroport-rodez.fr/,1971
+REG,LICR,Reggio Calabria Airport,Reggio Calabria,Calabria,"Reggio Calabria, Italy",UTC+01:00,1,1,International,SACAL S.p.A.,SACAL S.p.A.,https://www.aeroportodellostretto.it/,1939
+REU,LERS,Reus Airport,Reus,Catalonia,"Reus, Tarragona, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1935
+RGS,LERG,Burgos Airport,Burgos,Castile and León,"Burgos, Spain",UTC+01:00,2,1,International,AENA,AENA,https://www.aena.es/,2008
+RHO,LGRP,Diagoras International Airport,Rhodes,South Aegean,"Paradeisi, Rhodes, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.rho-airport.gr/,1977
+RIX,EVRA,Riga International Airport,Riga,Mārupe Municipality,"Mārupe, Riga, Latvia",UTC+02:00,1,1,International,Riga International Airport,Riga International Airport,https://www.riga-airport.com/,1974
+RJK,LDRJ,Rijeka Airport,Rijeka,Primorje-Gorski Kotar,"Omišalj, Rijeka, Croatia",UTC+01:00,1,1,International,Rijeka Airport Ltd.,Rijeka Airport Ltd.,https://www.rijeka-airport.hr/,1970
+RKE,EKRK,Roskilde Airport,Copenhagen,Zealand,"Roskilde, Copenhagen, Denmark",UTC+01:00,3,1,Domestic,Copenhagen Airports A/S,Copenhagen Airports A/S,https://www.rke.dk/,1973
+RKT,OMRK,Ras Al Khaimah International Airport,Ras Al Khaimah,Ras Al Khaimah,"Ras Al Khaimah, UAE",UTC+04:00,1,1,International,Ras Al Khaimah Department of Civil Aviation,Ras Al Khaimah Department of Civil Aviation,https://www.rakairport.com/,1976
+RLG,EDTL,Laage Airport,Rostock,Mecklenburg-Vorpommern,"Laage, Rostock, Germany",UTC+01:00,1,1,International,Flughafen Rostock-Laage-Güstrow GmbH,Flughafen Rostock-Laage-Güstrow GmbH,https://www.rostock-airport.de/,1992
+RMF,HEMA,Marsa Alam International Airport,Marsa Alam,Red Sea Governorate,"Marsa Alam, Egypt",UTC+02:00,1,1,International,EMAK Marsa Alam for Management,EMAK Marsa Alam for Management,https://www.marsa-alam-airport.com/,2001
+RMI,LIPR,Federico Fellini International Airport,Rimini,Emilia-Romagna,"Miramare, Rimini, Italy",UTC+01:00,1,1,International,Airiminum 2014 S.p.A.,Airiminum 2014 S.p.A.,https://www.riminiairport.com/,1929
+RMO,LUKK,Chișinău International Airport,Chișinău,Chișinău,"Chișinău, Moldova",UTC+02:00,1,1,International,Chișinău International Airport,Chișinău International Airport,https://www.airport.md/,1970
+RMU,LEMU,Región de Murcia International Airport,Murcia,Murcia,"Corvera, Murcia, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,2019
+RNS,LFRN,Rennes–Saint-Jacques Airport,Rennes,Brittany,"Saint-Jacques-de-la-Lande, Rennes, France",UTC+01:00,2,1,International,CCI de Rennes,CCI de Rennes,https://www.rennes.aeroport.fr/,1922
+RTM,EHRD,Rotterdam The Hague Airport,Rotterdam,South Holland,"Rotterdam, Netherlands",UTC+01:00,1,1,International,Schiphol Group,Schiphol Group,https://www.rotterdamthehagueairport.nl/,1956
+RUH,OERK,King Khalid International Airport,Riyadh,Riyadh Province,"Riyadh, Saudi Arabia",UTC+03:00,4,4,International,Riyadh Airports Company,Riyadh Airports Company,https://www.kingkhalidairport.com/,1983
+RVN,EFRO,Rovaniemi Airport,Rovaniemi,Lapland,"Rovaniemi, Finland",UTC+02:00,1,1,International,Finavia,Finavia,https://www.finavia.fi/,1940
+RZE,EPRZ,Rzeszów–Jasionka Airport,Rzeszów,Subcarpathian,"Jasionka, Rzeszów, Poland",UTC+01:00,1,1,International,Port Lotniczy Rzeszów-Jasionka Sp. z o.o.,Port Lotniczy Rzeszów-Jasionka Sp. z o.o.,https://www.rzeszowairport.pl/,1945
+SAN,KSAN,San Diego International Airport,San Diego,California,"San Diego, California, USA",UTC-08:00,1,2,International,San Diego County Regional Airport Authority,San Diego County Regional Airport Authority,https://www.san.org/,1928
+SBZ,LRSB,Sibiu International Airport,Sibiu,Sibiu County,"Sibiu, Romania",UTC+02:00,1,1,International,Sibiu County Council,Sibiu International Airport,https://www.sibiuairport.ro/,1943
+SCL,SCEL,Arturo Merino Benítez International Airport,Santiago,Metropolitan Region,"Pudahuel, Santiago, Chile",UTC-04:00,2,2,International,Nuevo Pudahuel,Nuevo Pudahuel,https://www.nuevopudahuel.cl/,1967
+SCQ,LEST,Santiago–Rosalía de Castro Airport,Santiago de Compostela,Galicia,"Santiago de Compostela, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1932
+SCR,ESNS,Skellefteå Airport,Skellefteå,Västerbotten,"Skellefteå, Sweden",UTC+01:00,1,1,International,Skellefteå Airport AB,Skellefteå Airport AB,https://www.skellefteaairport.se/,1961
+SCV,LRSC,Suceava Ștefan cel Mare Airport,Suceava,Suceava County,"Salcea, Suceava, Romania",UTC+02:00,1,1,International,Suceava County Council,Suceava International Airport,https://www.aeroportsuceava.ro/,1962
+SDR,LEXJ,Santander Airport,Santander,Cantabria,"Santander, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1953
+SEA,KSEA,Seattle–Tacoma International Airport,Seattle,Washington,"SeaTac, Washington, USA",UTC-08:00,4,1,International,Port of Seattle,Port of Seattle,https://www.portseattle.org/,1944
+SEN,EGMC,London Southend Airport,Southend-on-Sea,England,"Southend-on-Sea, Essex, England",UTC+00:00,1,1,International,Esken,Esken,https://www.southendairport.com/,1914
+SFJ,BGSF,Kangerlussuaq Airport,Kangerlussuaq,Qeqqata,"Kangerlussuaq, Greenland",UTC-03:00,1,1,International,Greenland Airports Authority,Greenland Airports Authority,https://www.mit.gl/,1941
+SFO,KSFO,San Francisco International Airport,San Francisco,California,"San Mateo County, California, USA",UTC-08:00,4,4,International,City and County of San Francisco,San Francisco Airport Commission,https://www.flysfo.com/,1927
+SGD,EKSB,Sønderborg Airport,Sønderborg,South Denmark,"Sønderborg, Denmark",UTC+01:00,2,1,International,Sønderborg Municipality,Sønderborg Airport,https://www.sonderborg-lufthavn.dk/,1968
+SGN,VVTS,Tân Sơn Nhất International Airport,Ho Chi Minh City,Ho Chi Minh City,"Tân Bình, Ho Chi Minh City, Vietnam",UTC+07:00,2,2,International,Vietnam Airports Corporation,Vietnam Airports Corporation,https://www.vietnamairport.vn/,1930
+SHJ,OMSJ,Sharjah International Airport,Sharjah,Sharjah Emirate,"Sharjah, UAE",UTC+04:00,1,1,International,Sharjah Department of Civil Aviation,Sharjah Airport Authority,https://www.sharjahairport.ae/,1977
+SID,GVAC,Amílcar Cabral International Airport,Sal,Sal,"Espargos, Sal, Cape Verde",UTC-01:00,1,1,International,ASA (Aeroportos e Segurança Aérea),ASA,https://www.asa.cv/,1939
+SIN,WSSS,Singapore Changi Airport,Singapore,Singapore,"Changi, Singapore",UTC+08:00,3,4,International,Changi Airport Group,Changi Airport Group,https://www.changiairport.com/,1981
+SIR,LSGS,Sion Airport,Sion,Valais,"Sion, Switzerland",UTC+01:00,2,1,International,Canton of Valais,Sion Airport SA,https://www.sionairport.ch/,1935
+SJJ,LQSA,Sarajevo International Airport,Sarajevo,Sarajevo Canton,"Ilidža, Sarajevo, Bosnia and Herzegovina",UTC+01:00,1,1,International,Bosnia and Herzegovina Directorate of Civil Aviation,Bosnia and Herzegovina Directorate of Civil Aviation,https://www.sarajevo-airport.ba/,1969
+SJO,MRPV,Juan Santamaría International Airport,San José,Alajuela,"Alajuela, San José, Costa Rica",UTC-06:00,1,2,International,General Directorate of Civil Aviation,Aeris Holding Costa Rica,https://www.fly2sanjose.com/,1958
+SKB,TKPK,Robert L. Bradshaw International Airport,Basseterre,St. Kitts,"Basseterre, St. Kitts and Nevis",UTC-04:00,1,1,International,St. Christopher Air and Sea Ports Authority,St. Christopher Air and Sea Ports Authority,https://www.skbairport.com/,1940
+SKG,LGTS,Thessaloniki Airport,Thessaloniki,Central Macedonia,"Mikra, Thessaloniki, Greece",UTC+02:00,2,1,International,Fraport Greece,Fraport Greece,https://www.skg-airport.gr/,1940
+SKP,LWSK,Skopje International Airport,Skopje,Skopje,"Petrovec, Skopje, North Macedonia",UTC+01:00,1,1,International,TAV Airports,TAV Airports,https://www.skp.airports.mk/,1928
+SLC,KSLC,Salt Lake City International Airport,Salt Lake City,Utah,"Salt Lake City, Utah, USA",UTC-07:00,4,2,International,Salt Lake City Department of Airports,Salt Lake City Department of Airports,https://www.slcairport.com/,1911
+SLM,LESA,Salamanca Airport,Salamanca,Castile and León,"Matacán, Salamanca, Spain",UTC+01:00,2,1,International,AENA,AENA,https://www.aena.es/,1938
+SMI,LGSM,Samos International Airport,Samos,North Aegean,"Pythagoreio, Samos, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.smi-airport.gr/,1963
+SNN,EINN,Shannon Airport,Shannon,County Clare,"Shannon, County Clare, Ireland",UTC+00:00,1,1,International,Shannon Airport Authority,Shannon Airport Authority,https://www.shannonairport.ie/,1942
+SOB,LHSA,Sármellék International Airport,Sármellék,Zala County,"Sármellék, Hungary",UTC+01:00,1,1,International,Hévíz-Balaton Airport Ltd.,Hévíz-Balaton Airport Ltd.,https://www.hevizairport.com/,1950
+SOF,LBSF,Sofia Airport,Sofia,Sofia City,"Sofia, Bulgaria",UTC+02:00,2,2,International,Sofia Airport EAD,Sofia Airport EAD,https://www.sofia-airport.bg/,1938
+SOU,EGHI,Southampton Airport,Southampton,England,"Eastleigh, Hampshire, England",UTC+00:00,1,1,International,AGS Airports,AGS Airports,https://www.southamptonairport.com/,1910
+SPC,GCLA,La Palma Airport,Santa Cruz de La Palma,Canary Islands,"Breña Baja, La Palma, Spain",UTC+00:00,1,1,International,AENA,AENA,https://www.aena.es/,1970
+SPU,LDSP,Split Airport,Split,Split-Dalmatia,"Kaštel Štafilić, Split, Croatia",UTC+01:00,1,1,International,Split Airport Ltd.,Split Airport Ltd.,https://www.split-airport.hr/,1966
+SPX,HESX,Sphinx International Airport,Giza,Giza Governorate,"Giza, Egypt",UTC+02:00,1,1,International,Egyptian Holding Company for Airports,Egyptian Holding Company for Airports,https://www.sphinx-airport.com/,2019
+SQQ,LYKS,Šiauliai International Airport,Šiauliai,Šiauliai County,"Šiauliai, Lithuania",UTC+02:00,1,1,International,Šiauliai Airport Authority,Šiauliai Airport Authority,https://www.siauliai-airport.com/,1931
+SSH,HEGN,Sharm El Sheikh International Airport,Sharm El Sheikh,South Sinai,"Sharm El Sheikh, Egypt",UTC+02:00,2,2,International,Egyptian Holding Company for Airports,Egyptian Holding Company for Airports,https://www.sharm-el-sheikh-airport.com/,1968
+STN,EGSS,London Stansted Airport,London,England,"Stansted Mountfitchet, Essex, England",UTC+00:00,1,3,International,Manchester Airports Group,Manchester Airports Group,https://www.stanstedairport.com/,1943
+STR,EDDS,Stuttgart Airport,Stuttgart,Baden-Württemberg,"Leinfelden-Echterdingen, Stuttgart, Germany",UTC+01:00,1,4,International,Flughafen Stuttgart GmbH,Flughafen Stuttgart GmbH,https://www.stuttgart-airport.com/,1939
+SUF,LICA,Lamezia Terme Airport,Lamezia Terme,Calabria,"Lamezia Terme, Italy",UTC+01:00,1,1,International,SACAL S.p.A.,SACAL S.p.A.,https://www.lameziaairport.it/,1976
+SUJ,LRSM,Satu Mare International Airport,Satu Mare,Satu Mare County,"Satu Mare, Romania",UTC+02:00,1,1,International,Satu Mare County Council,Satu Mare International Airport,https://www.aeroportsatumare.ro/,1936
+SVD,TVSV,Argyle International Airport,Kingstown,St. Vincent,"Argyle, St. Vincent and the Grenadines",UTC-04:00,1,1,International,St. Vincent and the Grenadines Government,St. Vincent and the Grenadines Government,https://www.svg-airport.com/,2017
+SVG,ENZV,Stavanger Airport, Sola,Stavanger,"Sola, Stavanger, Norway",UTC+01:00,2,1,International,Avinor,Avinor,https://www.avinor.no/,1937
+SVO,UUEE,Sheremetyevo International Airport,Moscow,Moscow Oblast,"Khimki, Moscow, Russia",UTC+03:00,4,4,International,Sheremetyevo International Airport JSC,Sheremetyevo International Airport JSC,https://www.svo.aero/,1959
+SVQ,LEZL,Seville Airport,Seville,Andalusia,"Seville, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1919
+SWF,KSWF,Stewart International Airport,Newburgh,New York,"New Windsor, New York, USA",UTC-05:00,2,1,International,Port Authority of New York and New Jersey,Port Authority of New York and New Jersey,https://www.swfstewartairport.com/,1939
+SXB,LFST,Strasbourg Airport,Strasbourg,Grand Est,"Entzheim, Strasbourg, France",UTC+01:00,1,1,International,CCI de Strasbourg,CCI de Strasbourg,https://www.strasbourg.aeroport.fr/,1923
+SXM,TNCM,Princess Juliana International Airport,Philipsburg,Sint Maarten,"Philipsburg, Sint Maarten",UTC-04:00,1,1,International,Princess Juliana International Airport Operating Company,Princess Juliana International Airport Operating Company,https://www.sxmairport.com/,1943
+SYD,YSSY,Sydney Kingsford Smith Airport,Sydney,New South Wales,"Mascot, Sydney, Australia",UTC+10:00,3,3,International,Sydney Airport Corporation,Sydney Airport Corporation,https://www.sydneyairport.com.au/,1920
+SYX,ZJSY,Sanya Phoenix International Airport,Sanya,Hainan,"Tianya, Sanya, China",UTC+08:00,2,2,International,Sanya Phoenix International Airport Co.,Sanya Phoenix International Airport Co.,https://www.sanyaairport.com/,1994
+SYY,EGPO,Stornoway Airport,Stornoway,Outer Hebrides,"Stornoway, Isle of Lewis, Scotland",UTC+00:00,2,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1937
+SZF,LTFH,Samsun-Çarşamba Airport,Samsun,Samsun Province,"Çarşamba, Samsun, Turkey",UTC+03:00,1,1,International,DHMI,DHMI,https://www.dhmi.gov.tr/,1998
+SZG,LOWS,Salzburg Airport,Salzburg,Salzburg,"Salzburg, Austria",UTC+01:00,2,2,International,Salzburger Flughafengesellschaft,Salzburger Flughafengesellschaft,https://www.salzburg-airport.com/,1926
+SZX,ZGSZ,Shenzhen Bao'an International Airport,Shenzhen,Guangdong,"Bao'an, Shenzhen, China",UTC+08:00,3,3,International,Shenzhen Airport Group,Shenzhen Airport Group,https://www.szairport.com/,1991
+SZY,EPSY,Olsztyn-Mazury Airport,Olsztyn,Warmian-Masurian,"Szymany, Olsztyn, Poland",UTC+01:00,1,1,International,Warmia i Mazury Sp. z o.o.,Warmia i Mazury Sp. z o.o.,https://www.mazuryairport.pl/,1996
+SZZ,EPSC,Szczecin-Goleniów Solidarność Airport,Szczecin,West Pomeranian,"Goleniów, Szczecin, Poland",UTC+01:00,1,1,International,Szczecin-Goleniów Airport Ltd.,Szczecin-Goleniów Airport Ltd.,https://www.airport.szczecin.pl/,1956
+TAB,TTPP,Tobago Airport,Scarborough,Tobago,"Crown Point, Tobago, Trinidad and Tobago",UTC-04:00,1,1,International,Airports Authority of Trinidad and Tobago,Airports Authority of Trinidad and Tobago,https://www.tntairports.com/,1940
+TAO,ZSQD,Qingdao Liuting International Airport,Qingdao,Shandong,"Chengyang, Qingdao, China",UTC+08:00,2,2,International,Qingdao International Airport Group,Qingdao International Airport Group,https://www.qdairport.com/,1982
+TAS,UTTT,Tashkent International Airport,Tashkent,Tashkent,"Tashkent, Uzbekistan",UTC+05:00,2,2,International,Uzbekistan Airports,Uzbekistan Airports,https://www.uzairports.uz/,1932
+TAT,LZTT,Poprad-Tatry Airport,Poprad,Prešov Region,"Poprad, Slovakia",UTC+01:00,1,1,International,Poprad-Tatry Airport,Poprad-Tatry Airport,https://www.airport-poprad.sk/,1938
+TBS,UGTB,Tbilisi International Airport,Tbilisi,Tbilisi,"Tbilisi, Georgia",UTC+04:00,1,1,International,TAV Airports,TAV Airports,https://www.tbilisiairport.com/,1957
+TEB,KTEB,Teterboro Airport,Teterboro,New Jersey,"Teterboro, New Jersey, USA",UTC-05:00,2,1,International,Port Authority of New York and New Jersey,Port Authority of New York and New Jersey,https://www.panynj.gov/,1919
+TER,LPLA,Terceira Airport,Terceira,Azores,"Praia da Vitória, Terceira, Azores, Portugal",UTC-01:00,2,1,International,ANA Aeroportos de Portugal,ANA Aeroportos de Portugal,https://www.aeroportoterceira.pt/,1956
+TFS,GCTS,Tenerife South Airport,Tenerife,Canary Islands,"Granadilla de Abona, Tenerife, Spain",UTC+00:00,1,2,International,AENA,AENA,https://www.aena.es/,1978
+TFU,ZUTF,Chengdu Tianfu International Airport,Chengdu,Sichuan,"Jianyang, Chengdu, China",UTC+08:00,3,2,International,Sichuan Province Airport Group,Sichuan Province Airport Group,https://www.cdairport.com/,2021
+TGD,LYPG,Podgorica Airport,Podgorica,Podgorica,"Golubovci, Podgorica, Montenegro",UTC+01:00,1,1,International,Airports of Montenegro,Airports of Montenegro,https://www.montenegroairports.com/,1961
+TGM,LRTM,Târgu Mureș Transilvania Airport,Târgu Mureș,Mureș County,"Vidrasău, Târgu Mureș, Romania",UTC+02:00,1,1,International,Mureș County Council,Târgu Mureș Transilvania Airport,https://www.aeroportultransilvania.ro/,1936
+TIA,LATI,Tirana International Airport Nënë Tereza,Tirana,Tirana County,"Rinas, Tirana, Albania",UTC+01:00,1,1,International,Tirana International Airport SHPK,Tirana International Airport SHPK,https://www.tirana-airport.com/,1957
+TIV,LYTV,Tivat Airport,Tivat,Kotor,"Tivat, Montenegro",UTC+01:00,1,1,International,Airports of Montenegro,Airports of Montenegro,https://www.montenegroairports.com/,1971
+TKU,EFTP,Turku Airport,Turku,Southwest Finland,"Turku, Finland",UTC+02:00,2,1,International,Finavia,Finavia,https://www.finavia.fi/,1935
+TLL,EETN,Tallinn Airport,Tallinn,Harju County,"Tallinn, Estonia",UTC+02:00,1,1,International,Tallinn Airport Ltd.,Tallinn Airport Ltd.,https://www.tallinn-airport.ee/,1936
+TLN,LFTR,Toulon–Hyères Airport,Hyères,Provence-Alpes-Côte d'Azur,"Hyères, France",UTC+01:00,2,1,International,VINCI Airports,VINCI Airports,https://www.toulon-hyeres.aeroport.fr/,1967
+TLS,LFTW,Toulouse–Blagnac Airport,Toulouse,Occitanie,"Blagnac, Toulouse, France",UTC+01:00,2,4,International,CCI de Toulouse,CCI de Toulouse,https://www.toulouse.aeroport.fr/,1939
+TLV,LLBG,Ben Gurion Airport,Tel Aviv,Central District,"Lod, Tel Aviv, Israel",UTC+02:00,3,2,International,Israel Airports Authority,Israel Airports Authority,https://www.iaa.gov.il/,1936
+TMP,EFTP,Tampere–Pirkkala Airport,Tampere,Pirkanmaa,"Pirkkala, Tampere, Finland",UTC+02:00,1,2,International,Finavia,Finavia,https://www.finavia.fi/,1979
+TMS,FNTT,São Tomé International Airport,São Tomé,São Tomé Island,"São Tomé, São Tomé and Príncipe",UTC+00:00,1,1,International,ENASA,ENASA,https://www.enasa.st/,1962
+TNG,GMTT,Tangier Ibn Battouta Airport,Tangier,Tangier-Tetouan-Al Hoceima,"Tangier, Morocco",UTC+01:00,1,1,International,ONDA (National Airports Authority),ONDA,https://www.onda.ma/,1957
+TOS,ENTF,Tromsø Airport,Tromsø,Troms og Finnmark,"Langnes, Tromsø, Norway",UTC+01:00,1,1,International,Avinor,Avinor,https://www.avinor.no/,1964
+TPA,KTPA,Tampa International Airport,Tampa,Florida,"Tampa, Florida, USA",UTC-05:00,4,1,International,Hillsborough County Aviation Authority,Hillsborough County Aviation Authority,https://www.tampaairport.com/,1971
+TPE,RCTP,Taiwan Taoyuan International Airport,Taipei,Taoyuan,"Dayuan, Taoyuan, Taiwan",UTC+08:00,2,2,International,Taoyuan International Airport Corporation,Taoyuan International Airport Corporation,https://www.taoyuan-airport.com/,1979
+TPS,LICT,Trapani–Birgi Airport,Trapani,Sicily,"Birgi, Trapani, Italy",UTC+01:00,1,1,International,AIRGEST S.p.A.,AIRGEST S.p.A.,https://www.aeroportotrapani.com/,1961
+TRD,ENVA,Trondheim Airport, Værnes,Trondheim,"Stjørdal, Trondheim, Norway",UTC+01:00,2,2,International,Avinor,Avinor,https://www.avinor.no/,1914
+TRE,EGPU,Tiree Airport,Tiree,Inner Hebrides,"Balemartine, Tiree, Scotland",UTC+00:00,3,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1937
+TRF,ENTO,Sandefjord Airport, Torp,Sandefjord,"Torp, Sandefjord, Norway",UTC+01:00,1,1,International,Sandefjord Lufthavn AS,Sandefjord Lufthavn AS,https://www.torp.no/,1959
+TRN,LIMF,Turin Airport,Turin,Piedmont,"Caselle Torinese, Turin, Italy",UTC+01:00,1,1,International,SAGAT S.p.A.,SAGAT S.p.A.,https://www.aeroportoditorino.it/,1953
+TRS,LIPQ,Trieste – Friuli Venezia Giulia Airport,Trieste,Friuli Venezia Giulia,"Ronchi dei Legionari, Trieste, Italy",UTC+01:00,1,1,International,Aeroporto Friuli Venezia Giulia S.p.A.,Aeroporto Friuli Venezia Giulia S.p.A.,https://www.aeroporto.fvg.it/,1961
+TSF,LIPH,Treviso Airport,Treviso,Veneto,"Treviso, Italy",UTC+01:00,1,1,International,Aer Tre S.p.A.,Aer Tre S.p.A.,https://www.trevisoairport.it/,1938
+TSN,ZBTJ,Tianjin Binhai International Airport,Tianjin,Tianjin,"Dongli, Tianjin, China",UTC+08:00,2,2,International,Tianjin Airport Group,Tianjin Airport Group,https://www.tianjin-airport.com/,1939
+TSR,LRSM,Timișoara Traian Vuia Airport,Timișoara,Timiș County,"Timișoara, Romania",UTC+02:00,1,1,International,Timișoara International Airport,Timișoara International Airport,https://www.aerotim.ro/,1964
+TUF,LFOU,Tours Val de Loire Airport,Tours,Centre-Val de Loire,"Tours, France",UTC+01:00,2,1,International,CCI de Touraine,CCI de Touraine,https://www.tours.aeroport.fr/,1937
+TUN,DTTA,Tunis–Carthage International Airport,Tunis,Tunis Governorate,"Tunis, Tunisia",UTC+01:00,2,2,International,TAV Airports,TAV Airports,https://www.tunisairport.com/,1940
+TUU,OETB,Tabuk Regional Airport,Tabuk,Tabuk Province,"Tabuk, Saudi Arabia",UTC+03:00,1,1,International,General Authority of Civil Aviation,General Authority of Civil Aviation,https://www.gaca.gov.sa/,1978
+TZL,LQBK,Banja Luka International Airport,Banja Luka,Republika Srpska,"Mahovljani, Banja Luka, Bosnia and Herzegovina",UTC+01:00,1,1,International,Banja Luka International Airport,Banja Luka International Airport,https://www.banjaluka-airport.com/,1983
+TZX,LTCG,Trabzon Airport,Trabzon,Trabzon Province,"Trabzon, Turkey",UTC+03:00,1,2,International,DHMI,DHMI,https://www.dhmi.gov.tr/,1957
+UIP,LFRQ,Quimper–Bretagne Airport,Quimper,Brittany,"Pluguffan Ascensores, France",UTC+01:00,1,1,International,CCI de Quimper,CCI de Quimper,https://www.aeroport-quimper.fr/,1932
+UNK,PAUN,Unalakleet Airport,Unalakleet,Alaska,"Unalakleet, Alaska, USA",UTC-09:00,2,1,Domestic,State of Alaska,State of Alaska Department of Transportation,,1940
+UVF,TLPL,Hewanorra International Airport,Vieux Fort,St. Lucia,"Vieux Fort, St. Lucia",UTC-04:00,1,1,International,St. Lucia Air and Sea Ports Authority,St. Lucia Air and Sea Ports Authority,https://www.slaspa.com/,1967
+VAR,LBWN,Varna Airport,Varna,Varna Province,"Varna, Bulgaria",UTC+02:00,1,2,International,Fraport Twin Star Airport Management,Fraport Twin Star Airport Management,https://www.varna-airport.bg/,1916
+VBS,LIPO,Brescia Airport,Brescia,Lombardy,"Montichiari, Brescia, Italy",UTC+01:00,1,1,International,SAVE Group,SAVE Group,https://www.aeroportobrescia.it/,1999
+VCE,LIPZ,Venice Marco Polo Airport,Venice,Veneto,"Tessera, Venice, Italy",UTC+01:00,1,1,International,SAVE Group,SAVE Group,https://www.veneziaairport.it/,1960
+VGO,LEVX,Vigo–Peinador Airport,Vigo,Galicia,"Vigo, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1928
+VIE,LOWW,Vienna International Airport,Vienna,Lower Austria,"Schwechat, Vienna, Austria",UTC+01:00,3,4,International,Flughafen Wien AG,Flughafen Wien AG,https://www.viennaairport.com/,1938
+VIT,LEVT,Vitoria Airport,Vitoria-Gasteiz,Basque Country,"Vitoria-Gasteiz, Spain",UTC+01:00,2,1,International,AENA,AENA,https://www.aena.es/,1980
+VLC,LEVC,Valencia Airport,Valencia,Valencian Community,"Manises, Valencia, Spain",UTC+01:00,1,2,International,AENA,AENA,https://www.aena.es/,1927
+VLL,LEVD,Valladolid Airport,Valladolid,Castile and León,"Valladolid, Spain",UTC+01:00,2,1,International,AENA,AENA,https://www.aena.es/,1938
+VNE,LFRV,Vannes Airport,Vannes,Brittany,"Meucon, Vannes, France",UTC+01:00,2,1,International,CCI de Vannes,CCI de Vannes,https://www.aeroport-vannes.fr/,1977
+VNO,EYVI,Vilnius Airport,Vilnius,Vilnius County,"Vilnius, Lithuania",UTC+02:00,1,1,International,Lithuanian Airports,Lithuanian Airports,https://www.vilnius-airport.lt/,1958
+VNY,KVNY,Van Nuys Airport,Los Angeles,California,"Van Nuys, California, USA",UTC-08:00,2,1,International,Los Angeles World Airports,Los Angeles World Airports,https://www.lawa.org/,1928
+VOL,LGVO,Volos Airport,Volos,Thessaly,"Nea Anchialos, Volos, Greece",UTC+02:00,1,1,International,Hellenic Civil Aviation Authority,Hellenic Civil Aviation Authority,https://www.volosairport.gr/,1991
+VRA,MUVR,Juan Gualberto Gómez Airport,Varadero,Matanzas,"Varadero, Cuba",UTC-05:00,1,1,International,ECASA,ECASA,https://www.varadero-airport.com/,1989
+VRN,LIPX,Verona Villafranca Airport,Verona,Veneto,"Villafranca di Verona, Italy",UTC+01:00,1,2,International,Aeroporto Valerio Catullo S.p.A.,Aeroporto Valerio Catullo S.p.A.,https://www.aeroportoverona.it/,1978
+VST,ESOW,Stockholm Västerås Airport,Västerås,Västmanland,"Västerås, Sweden",UTC+01:00,1,1,International,Västerås Flygplats AB,Västerås Flygplats AB,https://www.vasterasairport.se/,1938
+VXO,ESMX,Växjö Småland Airport,Växjö,Kronoberg,"Växjö, Sweden",UTC+01:00,1,1,International,Småland Airport AB,Småland Airport AB,https://www.smalandairport.se/,1975
+WAW,EPWA,Chopin Airport,Warsaw,Masovian,"Okęcie, Warsaw, Poland",UTC+01:00,2,1,International,Polish Airports State Enterprise,Polish Airports State Enterprise,https://www.lotnisko-chopina.pl/,1934
+WHS,EGNT,Wick Airport,Wick,Scotland,"Wick, Caithness, Scotland",UTC+00:00,2,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1936
+WIC,EGPC,Wick Airport,Wick,Scotland,"Wick, Caithness, Scotland",UTC+00:00,2,1,Domestic,Highlands and Islands Airports,Highlands and Islands Airports,https://www.hial.co.uk/,1936
+WMI,EPMO,Warsaw Modlin Airport,Warsaw,Masovian,"Nowy Dwór Mazowiecki, Warsaw, Poland",UTC+01:00,1,1,International,Modlin Airport Ltd.,Modlin Airport Ltd.,https://www.modlinairport.pl/,2012
+WRO,EPWR,WrocławWroclaw,Wroclaw,Lower Silesian,"Strachowice, Wroclaw, Poland",UTC+01:00,1,1,International,WrocławWroclaw Airport Ltd.,Wroclaw Airport Ltd.,https://www.airport.wroclaw.pl/,1938
+WUH,ZHHH,Wuhan Tianhe International Airport,Wuhan,Hubei,"Huangpi, Wuhan, China",UTC+08:00,2,3,International,Wuhan Tianhe International Airport Co.,Wuhan Tianhe International Airport Co.,https://www.whairport.com/,1995
+XCR,LFOK,Châlons Vatry Airport,Châlons-en-Champagne,Grand Est,"Vatry, Châlons-en-Champagne, France",UTC+01:00,1,1,International,CCI de Châlons-en-Champagne,CCI de Châlons-en-Champagne,https://www.vatry.aeroport.fr/,1997
+XIY,ZLXY,Xi'an Xianyang International Airport,Xi'an,Shaanxi,"Weicheng, Xi'an, China",UTC+08:00,3,3,International,Xi'an Xianyang International Airport Co.,Xi'an Xianyang International Airport Co.,https://www.xianairport.com/,1991
+XRY,LEJR,Jerez Airport,Jerez de la Frontera,Andalusia,"Jerez de la Frontera, Spain",UTC+01:00,1,1,International,AENA,AENA,https://www.aena.es/,1938
+YEG,CYEG,Edmonton International Airport,Edmonton,Alberta,"Leduc County, Edmonton, Alberta, Canada",UTC-07:00,2,1,International,Edmonton Airports,Edmonton Airports,https://www.flyeia.com/,1960
+YHZ,CYHZ,Halifax Stanfield International Airport,Halifax,Nova Scotia,"Enfield, Nova Scotia, Canada",UTC-04:00,2,1,International,Halifax International Airport Authority,Halifax International Airport Authority,https://www.halifaxstanfield.ca/,1960
+YOW,CYOW,Ottawa Macdonald–Cartier International Airport,Ottawa,Ontario,"Ottawa, Ontario, Canada",UTC-05:00,3,1,International,Ottawa International Airport Authority,Ottawa International Airport Authority,https://www.yow.ca/,1958
+YQB,CYQB,Québec City Jean Lesage International Airport,Quebec City,Quebec,"Sainte-Foy, Quebec City, Quebec, Canada",UTC-05:00,2,1,International,Aéroport de Québec,Aéroport de Québec,https://www.aeroportdequebec.com/,1939
+YQX,CYQX,Gander International Airport,Gander,Newfoundland and Labrador,"Gander, Newfoundland and Labrador, Canada",UTC-03:30,2,1,International,Gander International Airport Authority,Gander International Airport Authority,https://www.ganderairport.com/,1938
+YUL,CYUL,Montréal–Pierre Elliott Trudeau International Airport,Montreal,Quebec,"Dorval, Quebec, Canada",UTC-05:00,3,1,International,Aéroports de Montréal,Aéroports de Montréal,https://www.admtl.com/,1941
+YVR,CYVR,Vancouver International Airport,Vancouver,British Columbia,"Richmond, British Columbia, Canada",UTC-08:00,3,2,International,Vancouver Airport Authority,Vancouver Airport Authority,https://www.yvr.ca/,1931
+YYC,CYYC,Calgary International Airport,Calgary,Alberta,"Calgary, Alberta, Canada",UTC-07:00,3,2,International,Calgary Airport Authority,Calgary Airport Authority,https://www.yyc.com/,1938
+YYT,CYYT,St. John's International Airport,St. John's,Newfoundland and Labrador,"St. John's, Newfoundland and Labrador, Canada",UTC-03:30,2,1,International,St. John's International Airport Authority,St. John's International Airport Authority,https://www.stjohnsairport.com/,1945
+YYZ,CYYZ,Toronto Pearson International Airport,Toronto,Ontario,"Mississauga, Ontario, Canada",UTC-05:00,5,2,International,Greater Toronto Airports Authority,Greater Toronto Airports Authority,https://www.torontopearson.com/,1939
+ZAD,LDZD,Zadar Airport,Zadar,Zadar County,"Zemunik Donji, Zadar, Croatia",UTC+01:00,1,1,International,Zadar Airport Ltd.,Zadar Airport Ltd.,https://www.zadar-airport.hr/,1969
+ZAG,LDZA,Zagreb Franjo Tuđman Airport,Zagreb,Zagreb County,"Velika Gorica, Zagreb, Croatia",UTC+01:00,1,1,International,Zagreb Airport Ltd.,Zagreb Airport Ltd.,https://www.zagreb-airport.hr/,1925
+ZAZ,LEZG,Zaragoza Airport,Zaragoza,Aragon,"Zaragoza, Spain",UTC+01:00,2,1,International,AENA,AENA,https://www.aena.es/,1940
+ZRH,LSZH,Zürich Airport,Zürich,Zürich,"Kloten, Zürich, Switzerland",UTC+01:00,3,3,International,Flughafen Zürich AG,Flughafen Zürich AG,https://www.zurich-airport.com/,1948
+ZTH,LGZA,Zakynthos International Airport,Zakynthos,Ionian Islands,"Zakynthos, Greece",UTC+02:00,1,1,International,Fraport Greece,Fraport Greece,https://www.zth-airport.gr/,1972
+ZYL,VGSY,Osmani International Airport,Sylhet,Sylhet Division,"Sylhet, Bangladesh",UTC+06:00,1,1,International,Bangladesh Civil Aviation Authority,Bangladesh Civil Aviation Authority,https://www.caab.gov.bd/,1943
